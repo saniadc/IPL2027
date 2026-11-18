@@ -1,0 +1,19 @@
+role,variant,n_eligible,tau2_dl,lrt_p,spearman_vs_primary,top10_overlap,note,identifiable_p05
+bat,primary_strict_value_min60,26,0.0659951006286852,0.0008797176849445,1.0,1.0,,True
+bat,strict_value_min30,80,0.055064528716769,9.398134851200832e-05,0.995213675213675,0.4,,True
+bat,strict_value_min100,4,,,,,fewer than 10 eligible,False
+bat,IPL_only_min60,16,0.0522128129479187,0.0488027517279702,0.9529411764705882,0.7,,True
+bat,IPL_only_min30,40,0.0483516827051646,0.0213416739723837,0.9701298701298702,0.6,,True
+bat,leverage_top25pct_2nd_innings,87,0.0019464087092455,0.3519728765377152,0.6012987012987013,0.3,,False
+bat,runs_only_outcome_no_wicket_cost,26,0.0594096372569658,0.000164740907804,0.95008547008547,0.9,,True
+bowl,primary_strict_value_min60,41,0.0,0.3545083580116344,,1.0,,False
+bowl,strict_value_min30,88,0.0,0.4555009228844613,,0.5,,False
+bowl,strict_value_min100,12,0.0181961204927896,0.1561578915166251,,0.2,,False
+bowl,IPL_only_min60,17,0.0170501497603552,0.2640370237737111,,0.3,,False
+bowl,IPL_only_min30,51,0.0,1.0,,0.6,,False
+bowl,leverage_top25pct_2nd_innings,87,0.0084099107533547,0.101144164357007,,0.1,,False
+bowl,runs_only_outcome_no_wicket_cost,41,0.0,0.1975487947665295,,1.0,,False
+bat,training_window_2024_2026_only,11,0.01413819949713239,0.4141863606743459,0.8272727272727273,0.6,recent window; primary uses all seasons,False
+bat,joint_model_tau_beta,25,0.02955871264514188,0.0634360527768531,,,"tau_beta from joint (alpha,beta) model; primary ranking is raw residual",False
+bowl,training_window_2024_2026_only,14,0.037227641986248936,0.13092077042235611,,0.1,recent window; primary uses all seasons,False
+bowl,joint_model_tau_beta,41,0.0009148025880977289,0.32178685024759984,,,"tau_beta from joint (alpha,beta) model; primary ranking is raw residual",False

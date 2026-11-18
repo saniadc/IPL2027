@@ -1,0 +1,9 @@
+step,removed,deliveries,matches,batters,bowlers
+"0 legacy provisional (naive target, 120 cap, clipped)",0,12206,543,561,352
+"S1 exclude DLS/D-L matches (any, incl. with revised target)",67,12139,539,560,352
+S2 exclude shortened matches (revised overs record present),12,12127,538,560,352
+S3 exclude legal-ball anomaly matches (>120 legal or >6 legal in an over),3631,8496,387,486,302
+S4 exclude matches with unexplained short first innings,29,8467,386,485,302
+S5 state validity: legal balls before delivery <=119 (no clipping),0,8467,386,485,302
+S6 valid state: runs still needed >0 and balls remaining >0 (unclipped),0,8467,386,485,302
+S7 require wickets in hand >=1 and RRR>=9 on unclipped balls,0,8467,386,485,302

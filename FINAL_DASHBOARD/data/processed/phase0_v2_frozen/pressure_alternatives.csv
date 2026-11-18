@@ -1,0 +1,6 @@
+rule,deliveries,matches,batters,bowlers
+STRICT (S1–S7),8467,386,485,302
+A1_dls_with_revised_target,8491,387,486,302
+A2_shortened_verified,8467,386,485,302
+A3_anomaly_kept_state_filter,12098,537,560,352
+"LEGACY (naive target, clipped)",12206,543,561,352

@@ -1,0 +1,5 @@
+check,passed
+legal_balls_per_innings_max_120_retained,True
+per_over_legal_le_6,True
+wickets_le_10,True
+no_duplicate_legal_ball_keys,True

@@ -1,0 +1,685 @@
+pid,name,delivery_style,balls,share_of_classified
+278,Tim Southee,Angled Away,12,0.0141
+278,Tim Southee,Angled In,27,0.0318
+278,Tim Southee,Bouncer,26,0.0306
+278,Tim Southee,Chinaman,1,0.0012
+278,Tim Southee,Flipper,1,0.0012
+278,Tim Southee,Full Toss,11,0.013
+278,Tim Southee,Inswing,106,0.1249
+278,Tim Southee,Knuckle,9,0.0106
+278,Tim Southee,Leg Cut,1,0.0012
+278,Tim Southee,Off Cutter,119,0.1402
+278,Tim Southee,Orthodox,2,0.0024
+278,Tim Southee,Out Swing,118,0.139
+278,Tim Southee,Reverse Swing In,33,0.0389
+278,Tim Southee,Reverse Swing Out,4,0.0047
+278,Tim Southee,Seamed In,211,0.2485
+278,Tim Southee,Seamed Out,82,0.0966
+278,Tim Southee,Slow Ball,11,0.013
+278,Tim Southee,Straight,64,0.0754
+278,Tim Southee,Wide Yorker,3,0.0035
+278,Tim Southee,Yorker,8,0.0094
+360,Bhuvneshwar Kumar,Angled Away,41,0.0177
+360,Bhuvneshwar Kumar,Angled In,11,0.0048
+360,Bhuvneshwar Kumar,Bouncer,57,0.0246
+360,Bhuvneshwar Kumar,Full Toss,178,0.0769
+360,Bhuvneshwar Kumar,Inswing,475,0.2053
+360,Bhuvneshwar Kumar,Knuckle,119,0.0514
+360,Bhuvneshwar Kumar,Leg Cut,166,0.0717
+360,Bhuvneshwar Kumar,Off Cutter,49,0.0212
+360,Bhuvneshwar Kumar,Out Swing,474,0.2048
+360,Bhuvneshwar Kumar,Reverse Swing In,54,0.0233
+360,Bhuvneshwar Kumar,Reverse Swing Out,35,0.0151
+360,Bhuvneshwar Kumar,Seamed In,170,0.0735
+360,Bhuvneshwar Kumar,Seamed Out,204,0.0882
+360,Bhuvneshwar Kumar,Slow Ball,6,0.0026
+360,Bhuvneshwar Kumar,Slow Bouncer,43,0.0186
+360,Bhuvneshwar Kumar,Straight,95,0.0411
+360,Bhuvneshwar Kumar,Wide Yorker,27,0.0117
+360,Bhuvneshwar Kumar,Yorker,110,0.0475
+786,Chris Jordan,Angled Away,6,0.0105
+786,Chris Jordan,Angled In,13,0.0227
+786,Chris Jordan,Beamer,1,0.0017
+786,Chris Jordan,Bouncer,14,0.0244
+786,Chris Jordan,Full Toss,51,0.089
+786,Chris Jordan,Inswing,18,0.0314
+786,Chris Jordan,Knuckle,3,0.0052
+786,Chris Jordan,Leg Cut,6,0.0105
+786,Chris Jordan,Off Cutter,111,0.1937
+786,Chris Jordan,Out Swing,11,0.0192
+786,Chris Jordan,Reverse Swing In,42,0.0733
+786,Chris Jordan,Reverse Swing Out,18,0.0314
+786,Chris Jordan,Seamed In,119,0.2077
+786,Chris Jordan,Seamed Out,29,0.0506
+786,Chris Jordan,Slow Ball,4,0.007
+786,Chris Jordan,Slow Bouncer,8,0.014
+786,Chris Jordan,Straight,71,0.1239
+786,Chris Jordan,Wide Yorker,9,0.0157
+786,Chris Jordan,Yorker,39,0.0681
+830,Josh Hazlewood,Angled Away,7,0.0046
+830,Josh Hazlewood,Angled In,12,0.0079
+830,Josh Hazlewood,Bouncer,63,0.0416
+830,Josh Hazlewood,Full Toss,80,0.0528
+830,Josh Hazlewood,Inswing,188,0.1241
+830,Josh Hazlewood,Knuckle,33,0.0218
+830,Josh Hazlewood,Leg Cut,22,0.0145
+830,Josh Hazlewood,Off Cutter,80,0.0528
+830,Josh Hazlewood,Out Swing,166,0.1096
+830,Josh Hazlewood,Reverse Swing In,43,0.0284
+830,Josh Hazlewood,Reverse Swing Out,21,0.0139
+830,Josh Hazlewood,Seamed In,405,0.2673
+830,Josh Hazlewood,Seamed Out,254,0.1677
+830,Josh Hazlewood,Slow Ball,6,0.004
+830,Josh Hazlewood,Slow Bouncer,11,0.0073
+830,Josh Hazlewood,Straight,61,0.0403
+830,Josh Hazlewood,Wide Yorker,19,0.0125
+830,Josh Hazlewood,Yorker,44,0.029
+1318,Andre Russell,Angled Away,27,0.0341
+1318,Andre Russell,Angled In,10,0.0126
+1318,Andre Russell,Bouncer,57,0.072
+1318,Andre Russell,Full Toss,75,0.0947
+1318,Andre Russell,Inswing,8,0.0101
+1318,Andre Russell,Leg Cut,1,0.0013
+1318,Andre Russell,Off Cutter,137,0.173
+1318,Andre Russell,Out Swing,10,0.0126
+1318,Andre Russell,Reverse Swing In,40,0.0505
+1318,Andre Russell,Reverse Swing Out,15,0.0189
+1318,Andre Russell,Seamed In,99,0.125
+1318,Andre Russell,Seamed Out,131,0.1654
+1318,Andre Russell,Slow Ball,6,0.0076
+1318,Andre Russell,Slow Bouncer,12,0.0152
+1318,Andre Russell,Straight,102,0.1288
+1318,Andre Russell,Wide Yorker,6,0.0076
+1318,Andre Russell,Yorker,56,0.0707
+1612,Yuzvendra Chahal,Flipper,143,0.0645
+1612,Yuzvendra Chahal,Full Toss,50,0.0226
+1612,Yuzvendra Chahal,Googly,289,0.1304
+1612,Yuzvendra Chahal,Leg Break,1606,0.7247
+1612,Yuzvendra Chahal,Slider,124,0.056
+1612,Yuzvendra Chahal,Straight,2,0.0009
+1612,Yuzvendra Chahal,Yorker,2,0.0009
+1758,Patrick Cummins,Angled Away,7,0.0055
+1758,Patrick Cummins,Angled In,30,0.0237
+1758,Patrick Cummins,Back of Hand,3,0.0024
+1758,Patrick Cummins,Bouncer,54,0.0426
+1758,Patrick Cummins,Full Toss,68,0.0536
+1758,Patrick Cummins,Inswing,145,0.1144
+1758,Patrick Cummins,Leg Cut,5,0.0039
+1758,Patrick Cummins,Off Cutter,233,0.1838
+1758,Patrick Cummins,Out Swing,102,0.0804
+1758,Patrick Cummins,Reverse Swing In,28,0.0221
+1758,Patrick Cummins,Reverse Swing Out,19,0.015
+1758,Patrick Cummins,Seamed In,249,0.1964
+1758,Patrick Cummins,Seamed Out,106,0.0836
+1758,Patrick Cummins,Slow Ball,1,0.0008
+1758,Patrick Cummins,Slow Bouncer,93,0.0733
+1758,Patrick Cummins,Straight,76,0.0599
+1758,Patrick Cummins,Wide Yorker,15,0.0118
+1758,Patrick Cummins,Yorker,34,0.0268
+2261,Harshal Patel,Angled Away,26,0.0149
+2261,Harshal Patel,Angled In,51,0.0292
+2261,Harshal Patel,Back of Hand,26,0.0149
+2261,Harshal Patel,Beamer,5,0.0029
+2261,Harshal Patel,Bouncer,60,0.0343
+2261,Harshal Patel,Full Toss,169,0.0967
+2261,Harshal Patel,Inswing,34,0.0195
+2261,Harshal Patel,Leg Cut,2,0.0011
+2261,Harshal Patel,Off Cutter,678,0.3881
+2261,Harshal Patel,Out Swing,20,0.0114
+2261,Harshal Patel,Reverse Swing In,47,0.0269
+2261,Harshal Patel,Reverse Swing Out,19,0.0109
+2261,Harshal Patel,Seamed In,239,0.1368
+2261,Harshal Patel,Seamed Out,80,0.0458
+2261,Harshal Patel,Slow Ball,7,0.004
+2261,Harshal Patel,Slow Bouncer,128,0.0733
+2261,Harshal Patel,Straight,88,0.0504
+2261,Harshal Patel,Wide Yorker,12,0.0069
+2261,Harshal Patel,Yorker,56,0.0321
+2320,Trent Boult,Angled Away,34,0.0212
+2320,Trent Boult,Angled In,34,0.0212
+2320,Trent Boult,Bouncer,41,0.0256
+2320,Trent Boult,Full Toss,95,0.0592
+2320,Trent Boult,Inswing,357,0.2226
+2320,Trent Boult,Knuckle,62,0.0387
+2320,Trent Boult,Off Cutter,97,0.0605
+2320,Trent Boult,Out Swing,296,0.1845
+2320,Trent Boult,Reverse Swing In,49,0.0305
+2320,Trent Boult,Reverse Swing Out,34,0.0212
+2320,Trent Boult,Seamed In,187,0.1166
+2320,Trent Boult,Seamed Out,117,0.0729
+2320,Trent Boult,Slow Ball,1,0.0006
+2320,Trent Boult,Slow Bouncer,63,0.0393
+2320,Trent Boult,Straight,61,0.038
+2320,Trent Boult,Wide Yorker,13,0.0081
+2320,Trent Boult,Yorker,63,0.0393
+2399,Dushmantha Chameera,Angled Away,26,0.0216
+2399,Dushmantha Chameera,Angled In,21,0.0174
+2399,Dushmantha Chameera,Back of Hand,2,0.0017
+2399,Dushmantha Chameera,Bouncer,51,0.0424
+2399,Dushmantha Chameera,Full Toss,82,0.0681
+2399,Dushmantha Chameera,Inswing,159,0.1321
+2399,Dushmantha Chameera,Leg Cut,187,0.1553
+2399,Dushmantha Chameera,Off Cutter,41,0.0341
+2399,Dushmantha Chameera,Orthodox,2,0.0017
+2399,Dushmantha Chameera,Out Swing,104,0.0864
+2399,Dushmantha Chameera,Reverse Swing In,38,0.0316
+2399,Dushmantha Chameera,Reverse Swing Out,22,0.0183
+2399,Dushmantha Chameera,Seamed In,192,0.1595
+2399,Dushmantha Chameera,Seamed Out,128,0.1063
+2399,Dushmantha Chameera,Slow Ball,3,0.0025
+2399,Dushmantha Chameera,Slow Bouncer,2,0.0017
+2399,Dushmantha Chameera,Straight,64,0.0532
+2399,Dushmantha Chameera,Wide Yorker,35,0.0291
+2399,Dushmantha Chameera,Yorker,45,0.0374
+2411,Sandeep Sharma,Angled Away,42,0.0411
+2411,Sandeep Sharma,Angled In,23,0.0225
+2411,Sandeep Sharma,Bouncer,35,0.0342
+2411,Sandeep Sharma,Full Toss,77,0.0753
+2411,Sandeep Sharma,Inswing,104,0.1018
+2411,Sandeep Sharma,Knuckle,99,0.0969
+2411,Sandeep Sharma,Leg Cut,27,0.0264
+2411,Sandeep Sharma,Off Cutter,41,0.0401
+2411,Sandeep Sharma,Out Swing,106,0.1037
+2411,Sandeep Sharma,Reverse Swing In,8,0.0078
+2411,Sandeep Sharma,Reverse Swing Out,14,0.0137
+2411,Sandeep Sharma,Seamed In,60,0.0587
+2411,Sandeep Sharma,Seamed Out,124,0.1213
+2411,Sandeep Sharma,Slow Ball,4,0.0039
+2411,Sandeep Sharma,Slow Bouncer,77,0.0753
+2411,Sandeep Sharma,Straight,114,0.1115
+2411,Sandeep Sharma,Wide Yorker,17,0.0166
+2411,Sandeep Sharma,Yorker,50,0.0489
+2633,Jason Holder,Angled Away,67,0.0331
+2633,Jason Holder,Angled In,85,0.042
+2633,Jason Holder,Back of Hand,47,0.0232
+2633,Jason Holder,Beamer,1,0.0005
+2633,Jason Holder,Bouncer,67,0.0331
+2633,Jason Holder,Full Toss,174,0.086
+2633,Jason Holder,Inswing,132,0.0652
+2633,Jason Holder,Knuckle,1,0.0005
+2633,Jason Holder,Leg Cut,14,0.0069
+2633,Jason Holder,Off Cutter,333,0.1645
+2633,Jason Holder,Orthodox,1,0.0005
+2633,Jason Holder,Out Swing,128,0.0632
+2633,Jason Holder,Reverse Swing In,22,0.0109
+2633,Jason Holder,Reverse Swing Out,17,0.0084
+2633,Jason Holder,Seamed In,344,0.17
+2633,Jason Holder,Seamed Out,175,0.0865
+2633,Jason Holder,Slow Ball,15,0.0074
+2633,Jason Holder,Slow Bouncer,85,0.042
+2633,Jason Holder,Straight,196,0.0968
+2633,Jason Holder,Wide Yorker,36,0.0178
+2633,Jason Holder,Yorker,84,0.0415
+2847,Shardul Thakur,Angled Away,20,0.0191
+2847,Shardul Thakur,Angled In,8,0.0076
+2847,Shardul Thakur,Beamer,2,0.0019
+2847,Shardul Thakur,Bouncer,42,0.0401
+2847,Shardul Thakur,Full Toss,118,0.1127
+2847,Shardul Thakur,Inswing,80,0.0764
+2847,Shardul Thakur,Knuckle,77,0.0735
+2847,Shardul Thakur,Leg Cut,1,0.001
+2847,Shardul Thakur,Off Cutter,124,0.1184
+2847,Shardul Thakur,Out Swing,85,0.0812
+2847,Shardul Thakur,Reverse Swing In,25,0.0239
+2847,Shardul Thakur,Reverse Swing Out,28,0.0267
+2847,Shardul Thakur,Seamed In,124,0.1184
+2847,Shardul Thakur,Seamed Out,111,0.106
+2847,Shardul Thakur,Slow Ball,1,0.001
+2847,Shardul Thakur,Slow Bouncer,60,0.0573
+2847,Shardul Thakur,Straight,78,0.0745
+2847,Shardul Thakur,Wide Yorker,30,0.0287
+2847,Shardul Thakur,Yorker,33,0.0315
+2878,Mohit Sharma,Angled Away,2,0.003
+2878,Mohit Sharma,Angled In,2,0.003
+2878,Mohit Sharma,Back of Hand,135,0.1997
+2878,Mohit Sharma,Beamer,1,0.0015
+2878,Mohit Sharma,Bouncer,31,0.0459
+2878,Mohit Sharma,Full Toss,44,0.0651
+2878,Mohit Sharma,Inswing,12,0.0178
+2878,Mohit Sharma,Knuckle,14,0.0207
+2878,Mohit Sharma,Off Cutter,47,0.0695
+2878,Mohit Sharma,Out Swing,17,0.0251
+2878,Mohit Sharma,Reverse Swing In,33,0.0488
+2878,Mohit Sharma,Reverse Swing Out,14,0.0207
+2878,Mohit Sharma,Seamed In,94,0.1391
+2878,Mohit Sharma,Seamed Out,92,0.1361
+2878,Mohit Sharma,Slow Bouncer,60,0.0888
+2878,Mohit Sharma,Straight,44,0.0651
+2878,Mohit Sharma,Wide Yorker,9,0.0133
+2878,Mohit Sharma,Yorker,25,0.037
+2933,Jasprit Bumrah,Angled Away,1,0.0006
+2933,Jasprit Bumrah,Angled In,54,0.0303
+2933,Jasprit Bumrah,Bouncer,106,0.0596
+2933,Jasprit Bumrah,Full Toss,226,0.127
+2933,Jasprit Bumrah,Inswing,213,0.1197
+2933,Jasprit Bumrah,Leg Cut,1,0.0006
+2933,Jasprit Bumrah,Off Cutter,356,0.2
+2933,Jasprit Bumrah,Out Swing,135,0.0758
+2933,Jasprit Bumrah,Reverse Swing In,46,0.0258
+2933,Jasprit Bumrah,Reverse Swing Out,20,0.0112
+2933,Jasprit Bumrah,Seamed In,298,0.1674
+2933,Jasprit Bumrah,Seamed Out,60,0.0337
+2933,Jasprit Bumrah,Slow Bouncer,33,0.0185
+2933,Jasprit Bumrah,Straight,66,0.0371
+2933,Jasprit Bumrah,Wide Yorker,2,0.0011
+2933,Jasprit Bumrah,Yorker,163,0.0916
+3275,Alzarri Joseph,Angled Away,14,0.0116
+3275,Alzarri Joseph,Angled In,17,0.014
+3275,Alzarri Joseph,Beamer,1,0.0008
+3275,Alzarri Joseph,Bouncer,84,0.0694
+3275,Alzarri Joseph,Full Toss,55,0.0454
+3275,Alzarri Joseph,Inswing,84,0.0694
+3275,Alzarri Joseph,Off Cutter,119,0.0983
+3275,Alzarri Joseph,Out Swing,51,0.0421
+3275,Alzarri Joseph,Reverse Swing In,39,0.0322
+3275,Alzarri Joseph,Reverse Swing Out,19,0.0157
+3275,Alzarri Joseph,Seamed In,349,0.2882
+3275,Alzarri Joseph,Seamed Out,220,0.1817
+3275,Alzarri Joseph,Slow Ball,4,0.0033
+3275,Alzarri Joseph,Slow Bouncer,3,0.0025
+3275,Alzarri Joseph,Straight,108,0.0892
+3275,Alzarri Joseph,Wide Yorker,7,0.0058
+3275,Alzarri Joseph,Yorker,37,0.0306
+3653,Avesh Khan,Angled Away,38,0.0218
+3653,Avesh Khan,Angled In,24,0.0138
+3653,Avesh Khan,Beamer,2,0.0011
+3653,Avesh Khan,Bouncer,94,0.0539
+3653,Avesh Khan,Full Toss,171,0.0981
+3653,Avesh Khan,Inswing,96,0.055
+3653,Avesh Khan,Knuckle,2,0.0011
+3653,Avesh Khan,Leg Cut,129,0.074
+3653,Avesh Khan,Off Cutter,48,0.0275
+3653,Avesh Khan,Out Swing,64,0.0367
+3653,Avesh Khan,Reverse Swing In,80,0.0459
+3653,Avesh Khan,Reverse Swing Out,37,0.0212
+3653,Avesh Khan,Seamed In,373,0.2139
+3653,Avesh Khan,Seamed Out,260,0.1491
+3653,Avesh Khan,Slow Ball,9,0.0052
+3653,Avesh Khan,Slow Bouncer,53,0.0304
+3653,Avesh Khan,Straight,122,0.07
+3653,Avesh Khan,Wide Yorker,36,0.0206
+3653,Avesh Khan,Yorker,106,0.0608
+4101,Mitchell Santner,Arm ball,238,0.1332
+4101,Mitchell Santner,Bouncer,1,0.0006
+4101,Mitchell Santner,Carrom,2,0.0011
+4101,Mitchell Santner,Full Toss,24,0.0134
+4101,Mitchell Santner,Leg Break,1,0.0006
+4101,Mitchell Santner,Off Break,1,0.0006
+4101,Mitchell Santner,Orthodox,1511,0.8456
+4101,Mitchell Santner,Straight,1,0.0006
+4101,Mitchell Santner,Yorker,8,0.0045
+4265,T Natarajan,Angled Away,27,0.0243
+4265,T Natarajan,Angled In,24,0.0216
+4265,T Natarajan,Bouncer,39,0.0351
+4265,T Natarajan,Full Toss,194,0.1748
+4265,T Natarajan,Inswing,65,0.0586
+4265,T Natarajan,Leg Cut,4,0.0036
+4265,T Natarajan,Off Cutter,117,0.1054
+4265,T Natarajan,Out Swing,50,0.045
+4265,T Natarajan,Reverse Swing In,40,0.036
+4265,T Natarajan,Reverse Swing Out,51,0.0459
+4265,T Natarajan,Seamed In,125,0.1126
+4265,T Natarajan,Seamed Out,111,0.1
+4265,T Natarajan,Slow Ball,2,0.0018
+4265,T Natarajan,Slow Bouncer,90,0.0811
+4265,T Natarajan,Straight,67,0.0604
+4265,T Natarajan,Wide Yorker,13,0.0117
+4265,T Natarajan,Yorker,91,0.082
+4373,Mustafizur Rahman,Angled Away,50,0.0306
+4373,Mustafizur Rahman,Angled In,16,0.0098
+4373,Mustafizur Rahman,Back of Hand,14,0.0086
+4373,Mustafizur Rahman,Bouncer,72,0.0441
+4373,Mustafizur Rahman,Full Toss,85,0.0521
+4373,Mustafizur Rahman,Inswing,91,0.0557
+4373,Mustafizur Rahman,Leg Cut,3,0.0018
+4373,Mustafizur Rahman,Off Cutter,504,0.3086
+4373,Mustafizur Rahman,Orthodox,1,0.0006
+4373,Mustafizur Rahman,Out Swing,117,0.0716
+4373,Mustafizur Rahman,Reverse Swing In,29,0.0178
+4373,Mustafizur Rahman,Reverse Swing Out,32,0.0196
+4373,Mustafizur Rahman,Seamed In,147,0.09
+4373,Mustafizur Rahman,Seamed Out,302,0.1849
+4373,Mustafizur Rahman,Slow Ball,1,0.0006
+4373,Mustafizur Rahman,Slow Bouncer,55,0.0337
+4373,Mustafizur Rahman,Straight,52,0.0318
+4373,Mustafizur Rahman,Wide Yorker,25,0.0153
+4373,Mustafizur Rahman,Yorker,37,0.0227
+4489,Prasidh Krishna,Angled Away,28,0.0228
+4489,Prasidh Krishna,Angled In,35,0.0285
+4489,Prasidh Krishna,Bouncer,79,0.0642
+4489,Prasidh Krishna,Full Toss,86,0.0699
+4489,Prasidh Krishna,Inswing,111,0.0902
+4489,Prasidh Krishna,Leg Cut,3,0.0024
+4489,Prasidh Krishna,Off Cutter,113,0.0919
+4489,Prasidh Krishna,Out Swing,62,0.0504
+4489,Prasidh Krishna,Reverse Swing In,49,0.0398
+4489,Prasidh Krishna,Reverse Swing Out,26,0.0211
+4489,Prasidh Krishna,Seamed In,345,0.2805
+4489,Prasidh Krishna,Seamed Out,155,0.126
+4489,Prasidh Krishna,Slow Bouncer,22,0.0179
+4489,Prasidh Krishna,Straight,70,0.0569
+4489,Prasidh Krishna,Wide Yorker,16,0.013
+4489,Prasidh Krishna,Yorker,30,0.0244
+4692,Lockie Ferguson,Angled Away,9,0.0079
+4692,Lockie Ferguson,Angled In,27,0.0237
+4692,Lockie Ferguson,Back of Hand,2,0.0018
+4692,Lockie Ferguson,Beamer,5,0.0044
+4692,Lockie Ferguson,Bouncer,66,0.058
+4692,Lockie Ferguson,Full Toss,40,0.0351
+4692,Lockie Ferguson,Inswing,73,0.0641
+4692,Lockie Ferguson,Knuckle,33,0.029
+4692,Lockie Ferguson,Leg Cut,156,0.1371
+4692,Lockie Ferguson,Off Cutter,15,0.0132
+4692,Lockie Ferguson,Out Swing,45,0.0395
+4692,Lockie Ferguson,Reverse Swing In,35,0.0308
+4692,Lockie Ferguson,Reverse Swing Out,6,0.0053
+4692,Lockie Ferguson,Seamed In,356,0.3128
+4692,Lockie Ferguson,Seamed Out,121,0.1063
+4692,Lockie Ferguson,Slow Ball,2,0.0018
+4692,Lockie Ferguson,Slow Bouncer,15,0.0132
+4692,Lockie Ferguson,Straight,98,0.0861
+4692,Lockie Ferguson,Wide Yorker,8,0.007
+4692,Lockie Ferguson,Yorker,26,0.0228
+4722,Rashid Khan,Flipper,7,0.0025
+4722,Rashid Khan,Full Toss,34,0.0123
+4722,Rashid Khan,Googly,1321,0.4764
+4722,Rashid Khan,Leg Break,1406,0.507
+4722,Rashid Khan,Straight,1,0.0004
+4722,Rashid Khan,Yorker,4,0.0014
+4816,Khaleel Ahmed,Angled Away,34,0.0268
+4816,Khaleel Ahmed,Angled In,17,0.0134
+4816,Khaleel Ahmed,Back of Hand,1,0.0008
+4816,Khaleel Ahmed,Beamer,2,0.0016
+4816,Khaleel Ahmed,Bouncer,43,0.0339
+4816,Khaleel Ahmed,Full Toss,55,0.0434
+4816,Khaleel Ahmed,Inswing,195,0.1539
+4816,Khaleel Ahmed,Leg Cut,1,0.0008
+4816,Khaleel Ahmed,Off Cutter,226,0.1784
+4816,Khaleel Ahmed,Out Swing,244,0.1926
+4816,Khaleel Ahmed,Reverse Swing In,25,0.0197
+4816,Khaleel Ahmed,Reverse Swing Out,24,0.0189
+4816,Khaleel Ahmed,Seamed In,138,0.1089
+4816,Khaleel Ahmed,Seamed Out,168,0.1326
+4816,Khaleel Ahmed,Slow Bouncer,17,0.0134
+4816,Khaleel Ahmed,Straight,46,0.0363
+4816,Khaleel Ahmed,Wide Yorker,8,0.0063
+4816,Khaleel Ahmed,Yorker,23,0.0182
+4900,Wanindu Hasaranga,Chinaman,1,0.0005
+4900,Wanindu Hasaranga,Flipper,11,0.0054
+4900,Wanindu Hasaranga,Full Toss,34,0.0166
+4900,Wanindu Hasaranga,Googly,945,0.4605
+4900,Wanindu Hasaranga,Leg Break,1039,0.5063
+4900,Wanindu Hasaranga,Slider,20,0.0097
+4900,Wanindu Hasaranga,Slow Bouncer,1,0.0005
+4900,Wanindu Hasaranga,Yorker,1,0.0005
+5041,Mukesh Kumar,Angled Away,20,0.0163
+5041,Mukesh Kumar,Angled In,24,0.0196
+5041,Mukesh Kumar,Beamer,1,0.0008
+5041,Mukesh Kumar,Bouncer,45,0.0367
+5041,Mukesh Kumar,Full Toss,140,0.1141
+5041,Mukesh Kumar,Inswing,144,0.1174
+5041,Mukesh Kumar,Knuckle,26,0.0212
+5041,Mukesh Kumar,Leg Cut,6,0.0049
+5041,Mukesh Kumar,Off Cutter,89,0.0725
+5041,Mukesh Kumar,Out Swing,96,0.0782
+5041,Mukesh Kumar,Reverse Swing In,53,0.0432
+5041,Mukesh Kumar,Reverse Swing Out,36,0.0293
+5041,Mukesh Kumar,Seamed In,212,0.1728
+5041,Mukesh Kumar,Seamed Out,99,0.0807
+5041,Mukesh Kumar,Slow Ball,2,0.0016
+5041,Mukesh Kumar,Slow Bouncer,21,0.0171
+5041,Mukesh Kumar,Straight,101,0.0823
+5041,Mukesh Kumar,Wide Yorker,28,0.0228
+5041,Mukesh Kumar,Yorker,84,0.0685
+5809,Naveen ul Haq,Angled Away,13,0.0159
+5809,Naveen ul Haq,Angled In,45,0.0549
+5809,Naveen ul Haq,Back of Hand,2,0.0024
+5809,Naveen ul Haq,Beamer,3,0.0037
+5809,Naveen ul Haq,Bouncer,20,0.0244
+5809,Naveen ul Haq,Full Toss,25,0.0305
+5809,Naveen ul Haq,Inswing,88,0.1073
+5809,Naveen ul Haq,Knuckle,1,0.0012
+5809,Naveen ul Haq,Leg Break,1,0.0012
+5809,Naveen ul Haq,Leg Cut,67,0.0817
+5809,Naveen ul Haq,Off Cutter,153,0.1866
+5809,Naveen ul Haq,Out Swing,24,0.0293
+5809,Naveen ul Haq,Reverse Swing In,22,0.0268
+5809,Naveen ul Haq,Reverse Swing Out,16,0.0195
+5809,Naveen ul Haq,Seamed In,157,0.1915
+5809,Naveen ul Haq,Seamed Out,30,0.0366
+5809,Naveen ul Haq,Slow Ball,11,0.0134
+5809,Naveen ul Haq,Slow Bouncer,57,0.0695
+5809,Naveen ul Haq,Straight,50,0.061
+5809,Naveen ul Haq,Wide Yorker,17,0.0207
+5809,Naveen ul Haq,Yorker,18,0.022
+5944,Mohammed Siraj,Angled Away,22,0.0114
+5944,Mohammed Siraj,Angled In,18,0.0094
+5944,Mohammed Siraj,Back of Hand,11,0.0057
+5944,Mohammed Siraj,Beamer,1,0.0005
+5944,Mohammed Siraj,Bouncer,139,0.0723
+5944,Mohammed Siraj,Full Toss,88,0.0458
+5944,Mohammed Siraj,Inswing,346,0.1799
+5944,Mohammed Siraj,Off Cutter,94,0.0489
+5944,Mohammed Siraj,Out Swing,349,0.1815
+5944,Mohammed Siraj,Reverse Swing In,59,0.0307
+5944,Mohammed Siraj,Reverse Swing Out,40,0.0208
+5944,Mohammed Siraj,Seamed In,329,0.1711
+5944,Mohammed Siraj,Seamed Out,233,0.1212
+5944,Mohammed Siraj,Slow Bouncer,55,0.0286
+5944,Mohammed Siraj,Straight,64,0.0333
+5944,Mohammed Siraj,Wide Yorker,24,0.0125
+5944,Mohammed Siraj,Yorker,51,0.0265
+6355,Shaheen Afridi,Angled Away,15,0.0145
+6355,Shaheen Afridi,Angled In,41,0.0397
+6355,Shaheen Afridi,Back of Hand,17,0.0164
+6355,Shaheen Afridi,Beamer,1,0.001
+6355,Shaheen Afridi,Bouncer,23,0.0222
+6355,Shaheen Afridi,Full Toss,82,0.0793
+6355,Shaheen Afridi,Inswing,196,0.1896
+6355,Shaheen Afridi,Leg Cut,2,0.0019
+6355,Shaheen Afridi,Off Cutter,140,0.1354
+6355,Shaheen Afridi,Out Swing,147,0.1422
+6355,Shaheen Afridi,Reverse Swing In,29,0.028
+6355,Shaheen Afridi,Reverse Swing Out,9,0.0087
+6355,Shaheen Afridi,Seamed In,98,0.0948
+6355,Shaheen Afridi,Seamed Out,83,0.0803
+6355,Shaheen Afridi,Slow Ball,3,0.0029
+6355,Shaheen Afridi,Slow Bouncer,1,0.001
+6355,Shaheen Afridi,Straight,82,0.0793
+6355,Shaheen Afridi,Wide Yorker,4,0.0039
+6355,Shaheen Afridi,Yorker,61,0.059
+6464,Arshdeep Singh,Angled Away,115,0.0335
+6464,Arshdeep Singh,Angled In,121,0.0353
+6464,Arshdeep Singh,Back of Hand,5,0.0015
+6464,Arshdeep Singh,Beamer,2,0.0006
+6464,Arshdeep Singh,Bouncer,210,0.0612
+6464,Arshdeep Singh,Full Toss,356,0.1037
+6464,Arshdeep Singh,Inswing,445,0.1297
+6464,Arshdeep Singh,Knuckle,107,0.0312
+6464,Arshdeep Singh,Leg Cut,10,0.0029
+6464,Arshdeep Singh,Off Cutter,237,0.0691
+6464,Arshdeep Singh,Out Swing,586,0.1707
+6464,Arshdeep Singh,Reverse Swing,2,0.0006
+6464,Arshdeep Singh,Reverse Swing In,114,0.0332
+6464,Arshdeep Singh,Reverse Swing Out,80,0.0233
+6464,Arshdeep Singh,Seamed In,254,0.074
+6464,Arshdeep Singh,Seamed Out,267,0.0778
+6464,Arshdeep Singh,Slow Ball,7,0.002
+6464,Arshdeep Singh,Slow Bouncer,113,0.0329
+6464,Arshdeep Singh,Straight,119,0.0347
+6464,Arshdeep Singh,Wide Yorker,93,0.0271
+6464,Arshdeep Singh,Yorker,189,0.0551
+6676,Azmatullah Omarzai,Angled Away,8,0.0072
+6676,Azmatullah Omarzai,Angled In,20,0.018
+6676,Azmatullah Omarzai,Back of Hand,1,0.0009
+6676,Azmatullah Omarzai,Bouncer,50,0.0451
+6676,Azmatullah Omarzai,Full Toss,34,0.0307
+6676,Azmatullah Omarzai,Inswing,173,0.156
+6676,Azmatullah Omarzai,Knuckle,2,0.0018
+6676,Azmatullah Omarzai,Leg Cut,10,0.009
+6676,Azmatullah Omarzai,Off Cutter,95,0.0857
+6676,Azmatullah Omarzai,Out Swing,199,0.1794
+6676,Azmatullah Omarzai,Reverse Swing In,30,0.0271
+6676,Azmatullah Omarzai,Reverse Swing Out,16,0.0144
+6676,Azmatullah Omarzai,Seamed In,231,0.2083
+6676,Azmatullah Omarzai,Seamed Out,101,0.0911
+6676,Azmatullah Omarzai,Slow Ball,8,0.0072
+6676,Azmatullah Omarzai,Slow Bouncer,24,0.0216
+6676,Azmatullah Omarzai,Straight,78,0.0703
+6676,Azmatullah Omarzai,Wide Yorker,11,0.0099
+6676,Azmatullah Omarzai,Yorker,18,0.0162
+6806,Tushar Deshpande,Angled Away,39,0.0348
+6806,Tushar Deshpande,Angled In,12,0.0107
+6806,Tushar Deshpande,Beamer,2,0.0018
+6806,Tushar Deshpande,Bouncer,29,0.0259
+6806,Tushar Deshpande,Full Toss,106,0.0946
+6806,Tushar Deshpande,Inswing,110,0.0981
+6806,Tushar Deshpande,Leg Cut,1,0.0009
+6806,Tushar Deshpande,Off Cutter,212,0.1891
+6806,Tushar Deshpande,Out Swing,107,0.0955
+6806,Tushar Deshpande,Reverse Swing In,17,0.0152
+6806,Tushar Deshpande,Reverse Swing Out,28,0.025
+6806,Tushar Deshpande,Seamed In,134,0.1195
+6806,Tushar Deshpande,Seamed Out,114,0.1017
+6806,Tushar Deshpande,Slow Ball,3,0.0027
+6806,Tushar Deshpande,Slow Bouncer,68,0.0607
+6806,Tushar Deshpande,Straight,67,0.0598
+6806,Tushar Deshpande,Wide Yorker,37,0.033
+6806,Tushar Deshpande,Yorker,35,0.0312
+7240,FazalHaq Farooqi,Angled Away,17,0.0162
+7240,FazalHaq Farooqi,Angled In,28,0.0267
+7240,FazalHaq Farooqi,Back of Hand,3,0.0029
+7240,FazalHaq Farooqi,Bouncer,24,0.0229
+7240,FazalHaq Farooqi,Full Toss,77,0.0734
+7240,FazalHaq Farooqi,Inswing,169,0.1611
+7240,FazalHaq Farooqi,Knuckle,2,0.0019
+7240,FazalHaq Farooqi,Leg Cut,6,0.0057
+7240,FazalHaq Farooqi,Off Cutter,170,0.1621
+7240,FazalHaq Farooqi,Out Swing,146,0.1392
+7240,FazalHaq Farooqi,Reverse Swing In,17,0.0162
+7240,FazalHaq Farooqi,Reverse Swing Out,14,0.0133
+7240,FazalHaq Farooqi,Seamed In,108,0.103
+7240,FazalHaq Farooqi,Seamed Out,91,0.0867
+7240,FazalHaq Farooqi,Slow Ball,5,0.0048
+7240,FazalHaq Farooqi,Slow Bouncer,40,0.0381
+7240,FazalHaq Farooqi,Straight,63,0.0601
+7240,FazalHaq Farooqi,Wide Yorker,11,0.0105
+7240,FazalHaq Farooqi,Yorker,58,0.0553
+7270,Anrich Nortje,Angled Away,12,0.0137
+7270,Anrich Nortje,Angled In,25,0.0285
+7270,Anrich Nortje,Back of Hand,6,0.0068
+7270,Anrich Nortje,Beamer,4,0.0046
+7270,Anrich Nortje,Bouncer,64,0.0729
+7270,Anrich Nortje,Full Toss,68,0.0774
+7270,Anrich Nortje,Inswing,41,0.0467
+7270,Anrich Nortje,Knuckle,4,0.0046
+7270,Anrich Nortje,Leg Cut,46,0.0524
+7270,Anrich Nortje,Off Cutter,19,0.0216
+7270,Anrich Nortje,Out Swing,28,0.0319
+7270,Anrich Nortje,Reverse Swing In,35,0.0399
+7270,Anrich Nortje,Reverse Swing Out,18,0.0205
+7270,Anrich Nortje,Seamed In,289,0.3292
+7270,Anrich Nortje,Seamed Out,85,0.0968
+7270,Anrich Nortje,Slow Ball,3,0.0034
+7270,Anrich Nortje,Slow Bouncer,10,0.0114
+7270,Anrich Nortje,Straight,62,0.0706
+7270,Anrich Nortje,Wide Yorker,16,0.0182
+7270,Anrich Nortje,Yorker,43,0.049
+7364,Haris Rauf,Angled Away,6,0.0057
+7364,Haris Rauf,Angled In,30,0.0284
+7364,Haris Rauf,Bouncer,45,0.0426
+7364,Haris Rauf,Full Toss,42,0.0397
+7364,Haris Rauf,Inswing,65,0.0615
+7364,Haris Rauf,Knuckle,1,0.0009
+7364,Haris Rauf,Leg Cut,2,0.0019
+7364,Haris Rauf,Off Cutter,177,0.1675
+7364,Haris Rauf,Out Swing,37,0.035
+7364,Haris Rauf,Reverse Swing In,45,0.0426
+7364,Haris Rauf,Reverse Swing Out,11,0.0104
+7364,Haris Rauf,Seamed In,379,0.3586
+7364,Haris Rauf,Seamed Out,96,0.0908
+7364,Haris Rauf,Slow Ball,1,0.0009
+7364,Haris Rauf,Slow Bouncer,2,0.0019
+7364,Haris Rauf,Straight,90,0.0851
+7364,Haris Rauf,Wide Yorker,5,0.0047
+7364,Haris Rauf,Yorker,23,0.0218
+7503,Ravi Bishnoi,Arm ball,1,0.0004
+7503,Ravi Bishnoi,Flipper,293,0.1209
+7503,Ravi Bishnoi,Full Toss,35,0.0144
+7503,Ravi Bishnoi,Googly,1341,0.5534
+7503,Ravi Bishnoi,Leg Break,728,0.3005
+7503,Ravi Bishnoi,Off Cutter,1,0.0004
+7503,Ravi Bishnoi,Quicker Ball,12,0.005
+7503,Ravi Bishnoi,Seamed In,1,0.0004
+7503,Ravi Bishnoi,Slider,6,0.0025
+7503,Ravi Bishnoi,Straight,1,0.0004
+7503,Ravi Bishnoi,Yorker,4,0.0017
+7967,Noor Ahmad,Chinaman,450,0.2928
+7967,Noor Ahmad,Flipper,4,0.0026
+7967,Noor Ahmad,Full Toss,20,0.013
+7967,Noor Ahmad,Googly,1055,0.6864
+7967,Noor Ahmad,Leg Break,1,0.0007
+7967,Noor Ahmad,Wide Yorker,1,0.0007
+7967,Noor Ahmad,Yorker,6,0.0039
+8661,Matheesha Pathirana,Angled Away,17,0.0133
+8661,Matheesha Pathirana,Angled In,9,0.007
+8661,Matheesha Pathirana,Beamer,1,0.0008
+8661,Matheesha Pathirana,Bouncer,106,0.0829
+8661,Matheesha Pathirana,Full Toss,98,0.0766
+8661,Matheesha Pathirana,Inswing,31,0.0242
+8661,Matheesha Pathirana,Off Cutter,243,0.19
+8661,Matheesha Pathirana,Out Swing,38,0.0297
+8661,Matheesha Pathirana,Reverse Swing In,103,0.0805
+8661,Matheesha Pathirana,Reverse Swing Out,82,0.0641
+8661,Matheesha Pathirana,Seamed In,102,0.0797
+8661,Matheesha Pathirana,Seamed Out,157,0.1228
+8661,Matheesha Pathirana,Slow Bouncer,32,0.025
+8661,Matheesha Pathirana,Straight,148,0.1157
+8661,Matheesha Pathirana,Wide Yorker,19,0.0149
+8661,Matheesha Pathirana,Yorker,93,0.0727
+19316,Maheesh Theekshana,Arm ball,57,0.0246
+19316,Maheesh Theekshana,Carrom,1249,0.5388
+19316,Maheesh Theekshana,Flick,17,0.0073
+19316,Maheesh Theekshana,Flipper,2,0.0009
+19316,Maheesh Theekshana,Full Toss,124,0.0535
+19316,Maheesh Theekshana,Googly,37,0.016
+19316,Maheesh Theekshana,Leg Break,11,0.0047
+19316,Maheesh Theekshana,Off Break,805,0.3473
+19316,Maheesh Theekshana,Quicker Ball,1,0.0004
+19316,Maheesh Theekshana,Straight,1,0.0004
+19316,Maheesh Theekshana,Top Spin,1,0.0004
+19316,Maheesh Theekshana,Yorker,13,0.0056
+22920,Jacob Duffy,Angled Away,10,0.0107
+22920,Jacob Duffy,Angled In,16,0.0172
+22920,Jacob Duffy,Back of Hand,23,0.0247
+22920,Jacob Duffy,Bouncer,65,0.0698
+22920,Jacob Duffy,Full Toss,39,0.0419
+22920,Jacob Duffy,Inswing,140,0.1504
+22920,Jacob Duffy,Leg Cut,5,0.0054
+22920,Jacob Duffy,Off Cutter,106,0.1139
+22920,Jacob Duffy,Out Swing,210,0.2256
+22920,Jacob Duffy,Reverse Swing In,18,0.0193
+22920,Jacob Duffy,Reverse Swing Out,4,0.0043
+22920,Jacob Duffy,Seamed In,121,0.13
+22920,Jacob Duffy,Seamed Out,87,0.0934
+22920,Jacob Duffy,Slow Ball,4,0.0043
+22920,Jacob Duffy,Slow Bouncer,15,0.0161
+22920,Jacob Duffy,Straight,49,0.0526
+22920,Jacob Duffy,Wide Yorker,3,0.0032
+22920,Jacob Duffy,Yorker,16,0.0172
+39657,Eshan Malinga,Angled Away,7,0.0071
+39657,Eshan Malinga,Angled In,12,0.0121
+39657,Eshan Malinga,Bouncer,47,0.0475
+39657,Eshan Malinga,Full Toss,98,0.0991
+39657,Eshan Malinga,Inswing,76,0.0768
+39657,Eshan Malinga,Leg Cut,1,0.001
+39657,Eshan Malinga,Off Cutter,278,0.2811
+39657,Eshan Malinga,Out Swing,42,0.0425
+39657,Eshan Malinga,Reverse Swing In,71,0.0718
+39657,Eshan Malinga,Reverse Swing Out,20,0.0202
+39657,Eshan Malinga,Seamed In,104,0.1052
+39657,Eshan Malinga,Seamed Out,57,0.0576
+39657,Eshan Malinga,Slow Bouncer,83,0.0839
+39657,Eshan Malinga,Straight,37,0.0374
+39657,Eshan Malinga,Wide Yorker,9,0.0091
+39657,Eshan Malinga,Yorker,47,0.0475

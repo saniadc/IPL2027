@@ -1,0 +1,14 @@
+stage,item,n,reason,action
+phase1,pressure_strict,8467,Frozen strict Phase 0 set reproduced,primary pressure opportunities
+phase1,balls_rem<0 (innings 2),10,legal count >120 in chase; not clipped,"flagged, excluded via anomaly rule"
+phase1,match exclusion: retained,615,retained,retained
+phase1,match exclusion: legal-ball anomaly,201,legal-ball anomaly,excluded from strict primary (retained in archive)
+phase1,match exclusion: DLS/D-L,19,DLS/D-L,excluded from strict primary (retained in archive)
+phase1,match exclusion: shortened overs record,19,shortened overs record,excluded from strict primary (retained in archive)
+phase1,match exclusion: no ball-by-ball,16,no ball-by-ball,excluded from strict primary (retained in archive)
+phase1,match exclusion: short first innings (unexplained),13,short first innings (unexplained),excluded from strict primary (retained in archive)
+phase1,extras: other,264,"extras type ""other"" meaning unverified",treated as non-bowler runs (not bowler_conceded)
+phase1,extras: Penalty,1,penalty runs,treated as non-bowler runs
+phase1,wickets on illegal deliveries,45,bowler credit requires legal delivery,not bowler-credited; retained in ball_state
+phase1,retire out,6,retirement is not a batter dismissal,excluded from batter_out
+phase1,super over deliveries,38,Super Overs (innings 3/4),excluded from all primary analysis

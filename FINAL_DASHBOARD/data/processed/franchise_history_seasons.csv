@@ -1,0 +1,259 @@
+pid,player_name,evaluated_as,season,franchise,team_id,matches_played,listed_in_playing_eleven,balls_faced,runs,dismissals,strike_rate,batting_average,boundary_pct,legal_balls,overs_bowled,conceded,wickets,economy,in_research_top10_batters,in_research_top10_bowlers
+3275,Alzarri Joseph,bowler,2022,Gujarat Titans,3508,9,9,7,5,1,71.43,5.0,0.0,180,30.0,264,7,8.8,False,False
+3275,Alzarri Joseph,bowler,2023,Gujarat Titans,3508,7,7,12,7,0,58.33,,8.33,144,24.0,225,7,9.38,False,False
+3275,Alzarri Joseph,bowler,2024,Royal Challengers Bengaluru,5,3,15,,,,,,,58,9.67,115,1,11.9,False,False
+1318,Andre Russell,batter and bowler,2022,Kolkata Knight Riders,8,14,14,192,335,9,174.48,37.22,26.04,169,28.17,278,17,9.87,False,False
+1318,Andre Russell,batter and bowler,2023,Kolkata Knight Riders,8,14,14,156,227,11,145.51,20.64,19.87,91,15.17,172,7,11.34,False,False
+1318,Andre Russell,batter and bowler,2024,Kolkata Knight Riders,8,15,16,120,222,7,185.0,31.71,30.0,176,29.33,295,19,10.06,False,False
+1318,Andre Russell,batter and bowler,2025,Kolkata Knight Riders,8,13,14,102,167,9,163.73,18.56,29.41,109,18.17,217,8,11.94,False,False
+7270,Anrich Nortje,bowler,2022,Delhi Capitals,7,6,6,6,1,0,16.67,,0.0,136,22.67,215,9,9.49,False,False
+7270,Anrich Nortje,bowler,2023,Delhi Capitals,7,10,10,29,37,3,127.59,12.33,20.69,241,40.17,363,10,9.04,False,False
+7270,Anrich Nortje,bowler,2024,Delhi Capitals,7,6,14,8,4,2,50.0,2.0,0.0,133,22.17,293,7,13.22,False,False
+7270,Anrich Nortje,bowler,2025,Kolkata Knight Riders,8,2,14,,,,,,,42,7.0,83,1,11.86,False,False
+7270,Anrich Nortje,bowler,2026,Lucknow Super Giants,3509,1,14,1,0,1,0.0,0.0,0.0,24,4.0,39,0,9.75,False,False
+6464,Arshdeep Singh,bowler,2022,Punjab Kings,4,14,14,29,21,3,72.41,7.0,10.34,300,50.0,385,10,7.7,False,True
+6464,Arshdeep Singh,bowler,2023,Punjab Kings,4,14,14,2,2,0,100.0,,0.0,305,50.83,493,17,9.7,False,True
+6464,Arshdeep Singh,bowler,2024,Punjab Kings,4,14,14,3,4,1,133.33,4.0,33.33,302,50.33,505,19,10.03,False,True
+6464,Arshdeep Singh,bowler,2025,Punjab Kings,4,18,18,6,2,1,33.33,2.0,0.0,350,58.33,518,21,8.88,False,True
+6464,Arshdeep Singh,bowler,2026,Punjab Kings,4,14,14,1,1,0,100.0,,0.0,319,53.17,540,14,10.16,False,True
+8101,Ashutosh Sharma,batter,2024,Punjab Kings,4,11,14,113,189,7,167.26,27.0,22.12,,,,,,True,False
+8101,Ashutosh Sharma,batter,2025,Delhi Capitals,7,13,15,127,204,7,160.63,29.14,21.26,,,,,,True,False
+8101,Ashutosh Sharma,batter,2026,Delhi Capitals,7,8,14,94,171,5,181.91,34.2,28.72,,,,,,True,False
+3653,Avesh Khan,bowler,2022,Lucknow Super Giants,3509,13,13,13,22,1,169.23,22.0,23.08,286,47.67,416,18,8.73,False,False
+3653,Avesh Khan,bowler,2023,Lucknow Super Giants,3509,9,9,1,0,0,0.0,,0.0,174,29.0,283,8,9.76,False,False
+3653,Avesh Khan,bowler,2024,Rajasthan Royals,3,16,16,5,10,0,200.0,,20.0,330,55.0,525,19,9.55,False,False
+3653,Avesh Khan,bowler,2025,Lucknow Super Giants,3509,13,14,12,21,1,175.0,21.0,33.33,284,47.33,487,13,10.29,False,False
+3653,Avesh Khan,bowler,2026,Lucknow Super Giants,3509,7,14,6,6,1,100.0,6.0,16.67,148,24.67,273,6,11.07,False,False
+2876,Axar Patel,batter,2022,Delhi Capitals,7,13,13,120,182,4,151.67,45.5,18.33,258,43.0,321,6,7.47,False,False
+2876,Axar Patel,batter,2023,Delhi Capitals,7,14,14,203,283,10,139.41,28.3,17.73,282,47.0,338,11,7.19,False,False
+2876,Axar Patel,batter,2024,Delhi Capitals,7,14,14,179,235,8,131.28,29.38,16.2,264,44.0,337,11,7.66,False,False
+2876,Axar Patel,batter,2025,Delhi Capitals,7,13,15,167,263,10,157.49,26.3,22.75,216,36.0,313,5,8.69,False,False
+2876,Axar Patel,batter,2026,Delhi Capitals,7,14,14,132,173,9,131.06,19.22,16.67,264,44.0,360,11,8.18,False,False
+6676,Azmatullah Omarzai,bowler,2024,Gujarat Titans,3508,7,14,33,42,4,127.27,10.5,12.12,126,21.0,186,4,8.86,False,False
+6676,Azmatullah Omarzai,bowler,2025,Punjab Kings,4,10,18,41,57,4,139.02,14.25,21.95,162,27.0,279,8,10.33,False,False
+6676,Azmatullah Omarzai,bowler,2026,Punjab Kings,4,3,14,27,52,2,192.59,26.0,29.63,66,11.0,103,3,9.36,False,False
+360,Bhuvneshwar Kumar,bowler,2022,Sunrisers Hyderabad,242,14,14,26,24,3,92.31,8.0,11.54,313,52.17,383,12,7.34,False,False
+360,Bhuvneshwar Kumar,bowler,2023,Sunrisers Hyderabad,242,14,14,47,42,3,89.36,14.0,8.51,306,51.0,425,16,8.33,False,False
+360,Bhuvneshwar Kumar,bowler,2024,Sunrisers Hyderabad,242,16,17,29,23,3,79.31,7.67,10.34,342,57.0,533,11,9.35,False,False
+360,Bhuvneshwar Kumar,bowler,2025,Royal Challengers Bengaluru,5,14,16,25,14,3,56.0,4.67,4.0,312,52.0,483,17,9.29,False,False
+360,Bhuvneshwar Kumar,bowler,2026,Royal Challengers Bengaluru,5,16,16,26,34,0,130.77,,15.38,378,63.0,501,28,7.95,False,False
+786,Chris Jordan,bowler,2022,Chennai Super Kings,1,4,4,8,11,1,137.5,11.0,0.0,79,13.17,133,2,10.1,False,False
+786,Chris Jordan,bowler,2023,Mumbai Indians,2,6,6,12,6,2,50.0,3.0,0.0,132,22.0,237,3,10.77,False,False
+1077,David Miller,batter,2022,Gujarat Titans,3508,16,16,337,481,7,142.73,68.71,16.32,,,,,,False,False
+1077,David Miller,batter,2023,Gujarat Titans,3508,16,16,178,259,8,145.51,32.38,17.42,,,,,,False,False
+1077,David Miller,batter,2024,Gujarat Titans,3508,9,14,139,210,6,151.08,35.0,20.14,,,,,,False,False
+1077,David Miller,batter,2025,Lucknow Super Giants,3509,11,14,120,153,5,127.5,30.6,14.17,,,,,,False,False
+1077,David Miller,batter,2026,Delhi Capitals,7,11,14,137,211,6,154.01,35.17,21.17,,,,,,False,False
+7260,Dhruv Jurel,batter,2022,Rajasthan Royals,3,0,0,,,,,,,,,,,,False,False
+7260,Dhruv Jurel,batter,2023,Rajasthan Royals,3,13,13,88,152,7,172.73,21.71,22.73,,,,,,False,False
+7260,Dhruv Jurel,batter,2024,Rajasthan Royals,3,15,16,141,195,8,138.3,24.38,17.73,,,,,,False,False
+7260,Dhruv Jurel,batter,2025,Rajasthan Royals,3,14,14,213,333,9,156.34,37.0,20.66,,,,,,False,False
+7260,Dhruv Jurel,batter,2026,Rajasthan Royals,3,16,16,333,515,14,154.65,36.79,21.32,,,,,,False,False
+2399,Dushmantha Chameera,bowler,2022,Lucknow Super Giants,3509,12,12,28,43,4,153.57,10.75,21.43,265,44.17,383,9,8.67,False,False
+2399,Dushmantha Chameera,bowler,2024,Kolkata Knight Riders,8,1,16,,,,,,,18,3.0,48,0,16.0,False,False
+2399,Dushmantha Chameera,bowler,2025,Delhi Capitals,7,7,15,14,10,0,71.43,,0.0,102,17.0,198,4,11.65,False,False
+2399,Dushmantha Chameera,bowler,2026,Delhi Capitals,7,1,14,3,0,0,0.0,,0.0,12,2.0,18,0,9.0,False,False
+39657,Eshan Malinga,bowler,2025,Sunrisers Hyderabad,242,7,14,,,,,,,160,26.67,238,13,8.93,False,False
+39657,Eshan Malinga,bowler,2026,Sunrisers Hyderabad,242,15,15,17,7,1,41.18,7.0,0.0,326,54.33,507,20,9.33,False,False
+7240,FazalHaq Farooqi,bowler,2022,Sunrisers Hyderabad,242,3,3,8,2,0,25.0,,0.0,72,12.0,110,2,9.17,False,False
+7240,FazalHaq Farooqi,bowler,2023,Sunrisers Hyderabad,242,4,4,5,1,0,20.0,,0.0,80,13.33,117,4,8.78,False,False
+7240,FazalHaq Farooqi,bowler,2024,Sunrisers Hyderabad,242,0,17,,,,,,,,,,,,False,False
+7240,FazalHaq Farooqi,bowler,2025,Rajasthan Royals,3,5,14,2,2,0,100.0,,0.0,102,17.0,210,0,12.35,False,False
+3330,Hardik Pandya,batter,2022,Gujarat Titans,3508,15,15,371,487,11,131.27,44.27,16.44,183,30.5,222,8,7.28,False,False
+3330,Hardik Pandya,batter,2023,Gujarat Titans,3508,16,16,253,346,11,136.76,31.45,16.21,150,25.0,228,3,9.12,False,False
+3330,Hardik Pandya,batter,2024,Mumbai Indians,2,14,14,151,216,12,143.05,18.0,18.54,216,36.0,387,11,10.75,False,False
+3330,Hardik Pandya,batter,2025,Mumbai Indians,2,15,16,137,224,9,163.5,24.89,21.9,210,35.0,342,14,9.77,False,False
+3330,Hardik Pandya,batter,2026,Mumbai Indians,2,10,14,149,206,9,138.26,22.89,18.79,137,22.83,258,4,11.3,False,False
+2261,Harshal Patel,bowler,2022,Royal Challengers Bengaluru,5,15,15,39,43,5,110.26,8.6,15.38,321,53.5,410,19,7.66,False,False
+2261,Harshal Patel,bowler,2023,Royal Challengers Bengaluru,5,14,14,6,6,2,100.0,3.0,16.67,287,47.83,449,14,9.39,False,False
+2261,Harshal Patel,bowler,2024,Punjab Kings,4,14,14,19,13,3,68.42,4.33,10.53,294,49.0,477,24,9.73,False,False
+2261,Harshal Patel,bowler,2025,Sunrisers Hyderabad,242,13,14,26,21,2,80.77,10.5,0.0,267,44.5,426,16,9.57,False,False
+2261,Harshal Patel,bowler,2026,Sunrisers Hyderabad,242,5,15,9,10,3,111.11,3.33,22.22,82,13.67,148,0,10.83,False,False
+22920,Jacob Duffy,bowler,2026,Royal Challengers Bengaluru,5,6,16,,,,,,,144,24.0,263,9,10.96,False,False
+2633,Jason Holder,batter and bowler,2022,Lucknow Super Giants,3509,12,12,44,58,6,131.82,9.67,18.18,249,41.5,391,14,9.42,True,False
+2633,Jason Holder,batter and bowler,2023,Rajasthan Royals,3,8,8,11,12,2,109.09,6.0,9.09,171,28.5,284,4,9.96,True,False
+2633,Jason Holder,batter and bowler,2026,Gujarat Titans,3508,11,17,52,65,5,125.0,13.0,11.54,231,38.5,289,17,7.51,True,False
+2933,Jasprit Bumrah,bowler,2022,Mumbai Indians,2,14,14,8,0,2,0.0,0.0,0.0,320,53.33,383,15,7.18,False,True
+2933,Jasprit Bumrah,bowler,2023,Mumbai Indians,2,0,0,,,,,,,,,,,,False,True
+2933,Jasprit Bumrah,bowler,2024,Mumbai Indians,2,13,14,12,12,0,100.0,,8.33,311,51.83,336,20,6.48,False,True
+2933,Jasprit Bumrah,bowler,2025,Mumbai Indians,2,12,16,1,0,0,0.0,,0.0,284,47.33,316,18,6.68,False,True
+2933,Jasprit Bumrah,bowler,2026,Mumbai Indians,2,13,14,7,7,1,100.0,7.0,14.29,294,49.0,410,4,8.37,False,True
+830,Josh Hazlewood,bowler,2022,Royal Challengers Bengaluru,5,12,12,26,18,0,69.23,,3.85,279,46.5,377,20,8.11,False,True
+830,Josh Hazlewood,bowler,2023,Royal Challengers Bengaluru,5,3,3,2,1,0,50.0,,0.0,54,9.0,76,3,8.44,False,True
+830,Josh Hazlewood,bowler,2025,Royal Challengers Bengaluru,5,12,16,1,0,0,0.0,,0.0,264,44.0,386,22,8.77,False,True
+830,Josh Hazlewood,bowler,2026,Royal Challengers Bengaluru,5,13,16,1,0,1,0.0,0.0,0.0,309,51.5,494,15,9.59,False,True
+4816,Khaleel Ahmed,bowler,2022,Delhi Capitals,7,10,10,2,0,2,0.0,0.0,0.0,236,39.33,314,16,7.98,False,False
+4816,Khaleel Ahmed,bowler,2023,Delhi Capitals,7,9,9,,,,,,,200,33.33,299,9,8.97,False,False
+4816,Khaleel Ahmed,bowler,2024,Delhi Capitals,7,14,14,,,,,,,301,50.17,478,17,9.53,False,False
+4816,Khaleel Ahmed,bowler,2025,Chennai Super Kings,1,14,14,2,1,0,50.0,,0.0,280,46.67,447,15,9.58,False,False
+4816,Khaleel Ahmed,bowler,2026,Chennai Super Kings,1,5,5,,,,,,,101,16.83,146,2,8.67,False,False
+4692,Lockie Ferguson,bowler,2022,Gujarat Titans,3508,13,13,4,5,2,125.0,2.5,25.0,287,47.83,426,12,8.91,False,False
+4692,Lockie Ferguson,bowler,2023,Kolkata Knight Riders,8,3,3,,,,,,,46,7.67,96,1,12.52,False,False
+4692,Lockie Ferguson,bowler,2024,Royal Challengers Bengaluru,5,7,15,1,1,1,100.0,1.0,0.0,147,24.5,252,9,10.29,False,False
+4692,Lockie Ferguson,bowler,2025,Punjab Kings,4,4,12,1,4,0,400.0,,100.0,68,11.33,104,5,9.18,False,False
+4692,Lockie Ferguson,bowler,2026,Punjab Kings,4,3,14,,,,,,,66,11.0,141,1,12.82,False,False
+19316,Maheesh Theekshana,batter and bowler,2022,Chennai Super Kings,1,9,9,7,7,1,100.0,7.0,14.29,210,35.0,261,12,7.46,False,False
+19316,Maheesh Theekshana,batter and bowler,2023,Chennai Super Kings,1,13,13,,,,,,,294,49.0,392,11,8.0,False,False
+19316,Maheesh Theekshana,batter and bowler,2024,Chennai Super Kings,1,5,14,,,,,,,120,20.0,144,2,7.2,False,False
+19316,Maheesh Theekshana,batter and bowler,2025,Rajasthan Royals,3,11,14,27,10,2,37.04,5.0,0.0,252,42.0,410,11,9.76,False,False
+8,Mahendra Singh Dhoni,batter,2022,Chennai Super Kings,1,14,14,188,232,7,123.4,33.14,16.49,,,,,,True,False
+8,Mahendra Singh Dhoni,batter,2023,Chennai Super Kings,1,16,16,57,104,4,182.46,26.0,22.81,,,,,,True,False
+8,Mahendra Singh Dhoni,batter,2024,Chennai Super Kings,1,14,14,73,161,3,220.55,53.67,36.99,,,,,,True,False
+8,Mahendra Singh Dhoni,batter,2025,Chennai Super Kings,1,14,14,145,196,8,135.17,24.5,16.55,,,,,,True,False
+8,Mahendra Singh Dhoni,batter,2026,Chennai Super Kings,1,0,14,,,,,,,,,,,,True,False
+8661,Matheesha Pathirana,bowler,2022,Chennai Super Kings,1,2,2,,,,,,,41,6.83,52,2,7.61,False,True
+8661,Matheesha Pathirana,bowler,2023,Chennai Super Kings,1,12,12,,,,,,,279,46.5,370,19,7.96,False,True
+8661,Matheesha Pathirana,bowler,2024,Chennai Super Kings,1,6,13,,,,,,,132,22.0,169,13,7.68,False,True
+8661,Matheesha Pathirana,bowler,2025,Chennai Super Kings,1,12,14,,,,,,,252,42.0,423,13,10.07,False,True
+8661,Matheesha Pathirana,bowler,2026,Kolkata Knight Riders,8,1,13,,,,,,,8,1.33,9,0,6.75,False,True
+796,Matthew Wade,batter,2022,Gujarat Titans,3508,10,10,138,157,10,113.77,15.7,18.12,,,,,,True,False
+796,Matthew Wade,batter,2023,Gujarat Titans,3508,0,0,,,,,,,,,,,,True,False
+796,Matthew Wade,batter,2024,Gujarat Titans,3508,2,14,6,4,1,66.67,4.0,0.0,,,,,,True,False
+4101,Mitchell Santner,batter and bowler,2022,Chennai Super Kings,1,6,6,27,22,2,81.48,11.0,11.11,114,19.0,130,4,6.84,False,False
+4101,Mitchell Santner,batter and bowler,2023,Chennai Super Kings,1,3,3,4,2,0,50.0,,0.0,72,12.0,81,3,6.75,False,False
+4101,Mitchell Santner,batter and bowler,2024,Chennai Super Kings,1,3,14,17,14,3,82.35,4.67,5.88,54,9.0,64,2,7.11,False,False
+4101,Mitchell Santner,batter and bowler,2025,Mumbai Indians,2,13,16,33,40,2,121.21,20.0,15.15,237,39.5,313,9,7.92,False,False
+4101,Mitchell Santner,batter and bowler,2026,Mumbai Indians,2,4,7,19,26,0,136.84,,15.79,84,14.0,125,5,8.93,False,False
+5944,Mohammed Siraj,bowler,2022,Royal Challengers Bengaluru,5,15,15,33,30,2,90.91,15.0,15.15,307,51.17,513,9,10.03,False,False
+5944,Mohammed Siraj,bowler,2023,Royal Challengers Bengaluru,5,14,14,2,1,1,50.0,1.0,0.0,302,50.33,373,19,7.41,False,False
+5944,Mohammed Siraj,bowler,2024,Royal Challengers Bengaluru,5,14,15,8,12,2,150.0,6.0,25.0,324,54.0,496,15,9.19,False,False
+5944,Mohammed Siraj,bowler,2025,Gujarat Titans,3508,15,15,4,3,0,75.0,,0.0,342,57.0,527,16,9.25,False,False
+5944,Mohammed Siraj,bowler,2026,Gujarat Titans,3508,17,17,16,5,2,31.25,2.5,6.25,372,62.0,562,19,9.06,False,False
+2878,Mohit Sharma,bowler,2023,Gujarat Titans,3508,14,14,1,0,0,0.0,,0.0,265,44.17,361,27,8.17,False,False
+2878,Mohit Sharma,bowler,2024,Gujarat Titans,3508,12,14,15,2,2,13.33,1.0,0.0,235,39.17,424,13,10.83,False,False
+2878,Mohit Sharma,bowler,2025,Delhi Capitals,7,8,15,3,1,1,33.33,1.0,0.0,151,25.17,256,2,10.17,False,False
+5041,Mukesh Kumar,bowler,2023,Delhi Capitals,7,10,10,9,7,0,77.78,,0.0,187,31.17,325,7,10.43,False,False
+5041,Mukesh Kumar,bowler,2024,Delhi Capitals,7,10,14,9,3,1,33.33,3.0,0.0,214,35.67,367,17,10.29,False,False
+5041,Mukesh Kumar,bowler,2025,Delhi Capitals,7,12,15,,,,,,,238,39.67,407,12,10.26,False,False
+5041,Mukesh Kumar,bowler,2026,Delhi Capitals,7,10,14,,,,,,,189,31.5,352,6,11.17,False,False
+4373,Mustafizur Rahman,bowler,2022,Delhi Capitals,7,8,8,5,3,0,60.0,,0.0,192,32.0,244,8,7.62,False,False
+4373,Mustafizur Rahman,bowler,2023,Delhi Capitals,7,2,2,1,1,0,100.0,,0.0,42,7.0,79,1,11.29,False,False
+4373,Mustafizur Rahman,bowler,2024,Chennai Super Kings,1,9,13,,,,,,,206,34.33,318,14,9.26,False,False
+4373,Mustafizur Rahman,bowler,2025,Delhi Capitals,7,3,3,1,0,1,0.0,0.0,0.0,66,11.0,87,4,7.91,False,False
+4373,Mustafizur Rahman,bowler,2026,Kolkata Knight Riders,8,0,0,,,,,,,,,,,,False,False
+7897,Namboori Tilak Varma,batter,2022,Mumbai Indians,2,14,14,302,395,11,130.79,35.91,14.9,12,2.0,13,0,6.5,True,False
+7897,Namboori Tilak Varma,batter,2023,Mumbai Indians,2,11,11,209,343,8,164.11,42.88,23.44,6,1.0,7,0,7.0,True,False
+7897,Namboori Tilak Varma,batter,2024,Mumbai Indians,2,13,14,278,416,10,149.64,41.6,19.42,4,0.67,8,0,12.0,True,False
+7897,Namboori Tilak Varma,batter,2025,Mumbai Indians,2,16,16,248,343,10,138.31,34.3,15.73,,,,,,True,False
+7897,Namboori Tilak Varma,batter,2026,Mumbai Indians,2,14,14,246,359,12,145.93,29.92,19.11,,,,,,True,False
+5809,Naveen ul Haq,bowler,2023,Lucknow Super Giants,3509,8,8,21,16,1,76.19,16.0,9.52,170,28.33,217,11,7.66,False,False
+5809,Naveen ul Haq,bowler,2024,Lucknow Super Giants,3509,10,14,4,2,0,50.0,,0.0,219,36.5,372,14,10.19,False,False
+3125,Nicholas Pooran,batter,2022,Sunrisers Hyderabad,242,14,14,212,306,8,144.34,38.25,17.45,,,,,,False,False
+3125,Nicholas Pooran,batter,2023,Lucknow Super Giants,3509,15,15,207,358,12,172.95,29.83,25.12,,,,,,False,False
+3125,Nicholas Pooran,batter,2024,Lucknow Super Giants,3509,14,14,280,499,8,178.21,62.38,25.36,,,,,,False,False
+3125,Nicholas Pooran,batter,2025,Lucknow Super Giants,3509,14,14,267,524,12,196.25,43.67,31.84,,,,,,False,False
+3125,Nicholas Pooran,batter,2026,Lucknow Super Giants,3509,14,14,184,234,14,127.17,16.71,16.3,,,,,,False,False
+7967,Noor Ahmad,bowler,2022,Gujarat Titans,3508,0,0,,,,,,,,,,,,False,False
+7967,Noor Ahmad,bowler,2023,Gujarat Titans,3508,13,13,9,8,2,88.89,4.0,11.11,283,47.17,369,15,7.82,False,False
+7967,Noor Ahmad,bowler,2024,Gujarat Titans,3508,10,14,9,5,2,55.56,2.5,11.11,209,34.83,290,8,8.33,False,False
+7967,Noor Ahmad,bowler,2025,Chennai Super Kings,1,14,14,17,7,4,41.18,1.75,0.0,300,50.0,408,24,8.16,False,False
+7967,Noor Ahmad,bowler,2026,Chennai Super Kings,1,14,14,23,11,3,47.83,3.67,4.35,306,51.0,428,12,8.39,False,False
+1758,Patrick Cummins,bowler,2022,Kolkata Knight Riders,8,5,5,24,63,4,262.5,15.75,45.83,119,19.83,212,7,10.69,False,False
+1758,Patrick Cummins,bowler,2024,Sunrisers Hyderabad,242,16,17,95,136,6,143.16,22.67,17.89,366,61.0,566,18,9.28,False,False
+1758,Patrick Cummins,bowler,2025,Sunrisers Hyderabad,242,14,14,58,97,4,167.24,24.25,22.41,298,49.67,450,16,9.06,False,False
+1758,Patrick Cummins,bowler,2026,Sunrisers Hyderabad,242,8,15,19,30,3,157.89,10.0,21.05,193,32.17,306,8,9.51,False,False
+4489,Prasidh Krishna,bowler,2022,Rajasthan Royals,3,17,17,12,6,1,50.0,6.0,0.0,401,66.83,549,19,8.21,False,False
+4489,Prasidh Krishna,bowler,2023,Rajasthan Royals,3,0,0,,,,,,,,,,,,False,False
+4489,Prasidh Krishna,bowler,2024,Rajasthan Royals,3,0,0,,,,,,,,,,,,False,False
+4489,Prasidh Krishna,bowler,2025,Gujarat Titans,3508,15,15,,,,,,,354,59.0,488,25,8.27,False,False
+4489,Prasidh Krishna,bowler,2026,Gujarat Titans,3508,12,17,7,6,0,85.71,,14.29,234,39.0,407,16,10.44,False,False
+3926,Rahul Tewatia,batter,2022,Gujarat Titans,3508,16,16,147,217,7,147.62,31.0,21.09,36,6.0,76,0,12.67,False,False
+3926,Rahul Tewatia,batter,2023,Gujarat Titans,3508,17,17,57,87,4,152.63,21.75,17.54,13,2.17,15,0,6.92,False,False
+3926,Rahul Tewatia,batter,2024,Gujarat Titans,3508,12,14,129,188,7,145.74,26.86,22.48,,,,,,False,False
+3926,Rahul Tewatia,batter,2025,Gujarat Titans,3508,15,15,59,99,8,167.8,12.38,22.03,,,,,,False,False
+3926,Rahul Tewatia,batter,2026,Gujarat Titans,3508,16,17,132,190,7,143.94,27.14,21.21,,,,,,False,False
+4722,Rashid Khan,batter and bowler,2022,Gujarat Titans,3508,16,16,44,91,4,206.82,22.75,27.27,383,63.83,421,19,6.6,True,True
+4722,Rashid Khan,batter and bowler,2023,Gujarat Titans,3508,17,17,60,130,4,216.67,32.5,35.0,402,67.0,552,27,8.24,True,True
+4722,Rashid Khan,batter and bowler,2024,Gujarat Titans,3508,12,14,71,102,5,143.66,20.4,19.72,262,43.67,367,10,8.4,True,True
+4722,Rashid Khan,batter and bowler,2025,Gujarat Titans,3508,15,15,28,40,5,142.86,8.0,17.86,330,55.0,514,9,9.35,True,True
+4722,Rashid Khan,batter and bowler,2026,Gujarat Titans,3508,17,17,41,50,4,121.95,12.5,14.63,341,56.83,516,21,9.08,True,True
+7503,Ravi Bishnoi,bowler,2022,Lucknow Super Giants,3509,14,14,1,0,0,0.0,,0.0,323,53.83,454,13,8.43,False,False
+7503,Ravi Bishnoi,bowler,2023,Lucknow Super Giants,3509,15,15,27,20,3,74.07,6.67,3.7,303,50.5,391,16,7.74,False,False
+7503,Ravi Bishnoi,bowler,2024,Lucknow Super Giants,3509,14,14,6,4,3,66.67,1.33,0.0,262,43.67,383,10,8.77,False,False
+7503,Ravi Bishnoi,bowler,2025,Lucknow Super Giants,3509,11,14,16,13,2,81.25,6.5,12.5,222,37.0,401,9,10.84,False,False
+7503,Ravi Bishnoi,bowler,2026,Rajasthan Royals,3,9,16,3,0,2,0.0,0.0,0.0,156,26.0,257,10,9.88,False,False
+152,Ravindra Jadeja,batter,2022,Chennai Super Kings,1,10,10,98,116,6,118.37,19.33,11.22,198,33.0,248,5,7.52,False,False
+152,Ravindra Jadeja,batter,2023,Chennai Super Kings,1,16,16,133,190,8,142.86,23.75,15.04,342,57.0,431,20,7.56,False,False
+152,Ravindra Jadeja,batter,2024,Chennai Super Kings,1,14,14,187,267,6,142.78,44.5,16.04,282,47.0,369,8,7.85,False,False
+152,Ravindra Jadeja,batter,2025,Chennai Super Kings,1,14,14,222,301,9,135.59,33.44,15.77,227,37.83,324,10,8.56,False,False
+152,Ravindra Jadeja,batter,2026,Rajasthan Royals,3,14,16,197,266,4,135.03,66.5,14.72,198,33.0,277,10,8.39,False,False
+4708,Rinku Singh,batter,2022,Kolkata Knight Riders,8,7,7,117,174,5,148.72,34.8,20.51,,,,,,True,False
+4708,Rinku Singh,batter,2023,Kolkata Knight Riders,8,14,14,317,474,8,149.53,59.25,18.93,,,,,,True,False
+4708,Rinku Singh,batter,2024,Kolkata Knight Riders,8,15,16,113,168,9,148.67,18.67,18.58,,,,,,True,False
+4708,Rinku Singh,batter,2025,Kolkata Knight Riders,8,13,14,134,206,7,153.73,29.43,22.39,,,,,,True,False
+4708,Rinku Singh,batter,2026,Kolkata Knight Riders,8,14,14,199,299,5,150.25,59.8,19.6,,,,,,True,False
+6726,Romario Shepherd,batter,2022,Sunrisers Hyderabad,242,3,3,41,58,2,141.46,29.0,17.07,54,9.0,98,3,10.89,False,False
+6726,Romario Shepherd,batter,2023,Lucknow Super Giants,3509,1,1,1,0,1,0.0,0.0,0.0,,,,,,False,False
+6726,Romario Shepherd,batter,2024,Mumbai Indians,2,6,14,21,57,2,271.43,28.5,47.62,72,12.0,159,1,13.25,False,False
+6726,Romario Shepherd,batter,2025,Royal Challengers Bengaluru,5,8,16,24,70,2,291.67,35.0,50.0,84,14.0,151,6,10.79,False,False
+6726,Romario Shepherd,batter,2026,Royal Challengers Bengaluru,5,15,16,66,83,4,125.76,20.75,16.67,150,25.0,298,7,11.92,False,False
+4986,Rovman Powell,batter,2022,Delhi Capitals,7,14,14,167,250,10,149.7,25.0,19.16,6,1.0,17,0,17.0,True,False
+4986,Rovman Powell,batter,2023,Delhi Capitals,7,3,3,9,7,3,77.78,2.33,11.11,12,2.0,18,1,9.0,True,False
+4986,Rovman Powell,batter,2024,Rajasthan Royals,3,10,16,68,103,6,151.47,17.17,23.53,,,,,,True,False
+4986,Rovman Powell,batter,2025,Kolkata Knight Riders,8,2,13,5,5,1,100.0,5.0,20.0,,,,,,True,False
+4986,Rovman Powell,batter,2026,Kolkata Knight Riders,8,11,14,141,190,5,134.75,38.0,18.44,,,,,,True,False
+2411,Sandeep Sharma,bowler,2022,Punjab Kings,4,5,5,,,,,,,120,20.0,153,2,7.65,False,False
+2411,Sandeep Sharma,bowler,2023,Rajasthan Royals,3,12,12,6,2,0,33.33,,0.0,276,46.0,396,10,8.61,False,False
+2411,Sandeep Sharma,bowler,2024,Rajasthan Royals,3,11,16,,,,,,,228,38.0,311,13,8.18,False,False
+2411,Sandeep Sharma,bowler,2025,Rajasthan Royals,3,10,11,5,6,0,120.0,,0.0,223,37.17,374,9,10.06,False,False
+2411,Sandeep Sharma,bowler,2026,Rajasthan Royals,3,6,16,,,,,,,118,19.67,224,5,11.39,False,False
+2847,Shardul Thakur,bowler,2022,Delhi Capitals,7,14,14,87,120,8,137.93,15.0,16.09,290,48.33,473,15,9.79,False,True
+2847,Shardul Thakur,bowler,2023,Kolkata Knight Riders,8,11,11,70,113,8,161.43,14.12,24.29,128,21.33,218,7,10.22,False,True
+2847,Shardul Thakur,bowler,2024,Chennai Super Kings,1,9,14,17,21,1,123.53,21.0,17.65,191,31.83,308,5,9.68,False,True
+2847,Shardul Thakur,bowler,2025,Lucknow Super Giants,3509,10,14,12,18,3,150.0,6.0,25.0,205,34.17,374,13,10.95,False,True
+2847,Shardul Thakur,bowler,2026,Mumbai Indians,2,9,14,30,24,2,80.0,12.0,6.67,133,22.17,269,12,12.14,False,True
+2756,Shashank Singh,batter,2022,Sunrisers Hyderabad,242,10,10,47,69,4,146.81,17.25,19.15,12,2.0,20,0,10.0,False,False
+2756,Shashank Singh,batter,2024,Punjab Kings,4,14,14,215,354,8,164.65,44.25,22.79,6,1.0,5,1,5.0,False,False
+2756,Shashank Singh,batter,2025,Punjab Kings,4,18,18,228,350,7,153.51,50.0,17.98,12,2.0,27,0,13.5,False,False
+2756,Shashank Singh,batter,2026,Punjab Kings,4,12,14,70,132,6,188.57,22.0,27.14,60,10.0,88,4,8.8,False,False
+6725,Sherfane Rutherford,batter,2022,Royal Challengers Bengaluru,5,3,3,50,33,2,66.0,16.5,4.0,,,,,,False,False
+6725,Sherfane Rutherford,batter,2024,Kolkata Knight Riders,8,0,16,,,,,,,,,,,,False,False
+6725,Sherfane Rutherford,batter,2025,Gujarat Titans,3508,13,15,185,291,9,157.3,32.33,21.62,,,,,,False,False
+6725,Sherfane Rutherford,batter,2026,Mumbai Indians,2,8,14,75,123,5,164.0,24.6,22.67,,,,,,False,False
+3297,Shimron Hetmyer,batter,2022,Rajasthan Royals,3,15,15,204,314,7,153.92,44.86,20.59,,,,,,False,False
+3297,Shimron Hetmyer,batter,2023,Rajasthan Royals,3,14,14,197,299,8,151.78,37.38,17.77,,,,,,False,False
+3297,Shimron Hetmyer,batter,2024,Rajasthan Royals,3,12,16,69,113,5,163.77,22.6,23.19,,,,,,False,False
+3297,Shimron Hetmyer,batter,2025,Rajasthan Royals,3,14,14,168,245,11,145.83,22.27,17.26,,,,,,False,False
+3297,Shimron Hetmyer,batter,2026,Rajasthan Royals,3,8,16,69,78,6,113.04,13.0,11.59,,,,,,False,False
+4265,T Natarajan,bowler,2022,Sunrisers Hyderabad,242,11,11,,,,,,,258,43.0,406,18,9.44,False,False
+4265,T Natarajan,bowler,2023,Sunrisers Hyderabad,242,12,12,,,,,,,270,45.0,410,10,9.11,False,False
+4265,T Natarajan,bowler,2024,Sunrisers Hyderabad,242,14,17,,,,,,,308,51.33,465,19,9.06,False,False
+4265,T Natarajan,bowler,2025,Delhi Capitals,7,3,15,,,,,,,25,4.17,53,1,12.72,False,False
+4265,T Natarajan,bowler,2026,Delhi Capitals,7,10,14,2,1,0,50.0,,0.0,191,31.83,356,5,11.18,False,False
+6396,Tim David,batter,2022,Mumbai Indians,2,8,8,86,186,5,216.28,37.2,32.56,,,,,,True,False
+6396,Tim David,batter,2023,Mumbai Indians,2,16,16,146,231,9,158.22,25.67,18.49,,,,,,True,False
+6396,Tim David,batter,2024,Mumbai Indians,2,13,14,152,241,8,158.55,30.12,19.08,,,,,,True,False
+6396,Tim David,batter,2025,Royal Challengers Bengaluru,5,12,16,101,187,3,185.15,62.33,29.7,,,,,,True,False
+6396,Tim David,batter,2026,Royal Challengers Bengaluru,5,16,16,162,305,9,188.27,33.89,27.78,6,1.0,18,0,18.0,True,False
+278,Tim Southee,bowler,2022,Kolkata Knight Riders,8,9,9,12,2,4,16.67,0.5,0.0,211,35.17,274,14,7.79,False,True
+278,Tim Southee,bowler,2023,Kolkata Knight Riders,8,2,2,,,,,,,36,6.0,79,2,13.17,False,True
+2320,Trent Boult,bowler,2022,Rajasthan Royals,3,16,16,29,40,2,137.93,20.0,10.34,372,62.0,492,16,7.94,False,False
+2320,Trent Boult,bowler,2023,Rajasthan Royals,3,10,10,14,16,1,114.29,16.0,14.29,228,38.0,312,13,8.21,False,False
+2320,Trent Boult,bowler,2024,Rajasthan Royals,3,16,16,16,14,2,87.5,7.0,12.5,320,53.33,443,16,8.31,False,False
+2320,Trent Boult,bowler,2025,Mumbai Indians,2,16,16,3,2,1,66.67,2.0,0.0,346,57.67,517,22,8.97,False,False
+2320,Trent Boult,bowler,2026,Mumbai Indians,2,5,14,4,8,1,200.0,8.0,25.0,97,16.17,188,2,11.63,False,False
+20702,Tristan Stubbs,batter,2022,Mumbai Indians,2,2,2,4,2,2,50.0,1.0,0.0,,,,,,True,False
+20702,Tristan Stubbs,batter,2023,Mumbai Indians,2,2,2,31,25,2,80.65,12.5,6.45,12,2.0,14,1,7.0,True,False
+20702,Tristan Stubbs,batter,2024,Delhi Capitals,7,14,14,198,378,7,190.91,54.0,25.25,12,2.0,15,2,7.5,True,False
+20702,Tristan Stubbs,batter,2025,Delhi Capitals,7,15,15,200,306,6,153.0,51.0,18.5,12,2.0,40,0,20.0,True,False
+20702,Tristan Stubbs,batter,2026,Delhi Capitals,7,14,14,216,275,8,127.31,34.38,12.5,,,,,,True,False
+6806,Tushar Deshpande,bowler,2022,Chennai Super Kings,1,2,2,,,,,,,42,7.0,63,1,9.0,False,False
+6806,Tushar Deshpande,bowler,2023,Chennai Super Kings,1,16,16,1,0,0,0.0,,0.0,341,56.83,564,21,9.92,False,False
+6806,Tushar Deshpande,bowler,2024,Chennai Super Kings,1,13,14,1,0,0,0.0,,0.0,290,48.33,422,17,8.73,False,False
+6806,Tushar Deshpande,bowler,2025,Rajasthan Royals,3,10,14,8,7,1,87.5,7.0,0.0,192,32.0,340,9,10.62,False,False
+6806,Tushar Deshpande,bowler,2026,Rajasthan Royals,3,7,16,14,26,2,185.71,13.0,21.43,138,23.0,275,4,11.96,False,False
+4900,Wanindu Hasaranga,bowler,2022,Royal Challengers Bengaluru,5,16,16,43,38,7,88.37,5.43,11.63,342,57.0,430,26,7.54,False,True
+4900,Wanindu Hasaranga,bowler,2023,Royal Challengers Bengaluru,5,8,8,28,33,2,117.86,16.5,10.71,174,29.0,258,9,8.9,False,True
+4900,Wanindu Hasaranga,bowler,2024,Sunrisers Hyderabad,242,0,4,,,,,,,,,,,,False,True
+4900,Wanindu Hasaranga,bowler,2025,Rajasthan Royals,3,11,14,15,9,5,60.0,1.8,0.0,246,41.0,371,11,9.05,False,True
+4900,Wanindu Hasaranga,bowler,2026,Lucknow Super Giants,3509,0,3,,,,,,,,,,,,False,True
+4823,Washington Sundar,batter,2022,Sunrisers Hyderabad,242,9,9,68,100,7,147.06,14.29,17.65,168,28.0,239,6,8.54,False,False
+4823,Washington Sundar,batter,2023,Sunrisers Hyderabad,242,7,7,60,60,4,100.0,15.0,10.0,106,17.67,146,3,8.26,False,False
+4823,Washington Sundar,batter,2024,Sunrisers Hyderabad,242,2,17,1,0,1,0.0,0.0,0.0,30,5.0,73,1,14.6,False,False
+4823,Washington Sundar,batter,2025,Gujarat Titans,3508,6,15,80,133,5,166.25,26.6,21.25,65,10.83,111,1,10.25,False,False
+4823,Washington Sundar,batter,2026,Gujarat Titans,3508,17,17,251,377,10,150.2,37.7,20.72,55,9.17,84,1,9.16,False,False
+1612,Yuzvendra Chahal,bowler,2022,Rajasthan Royals,3,17,17,8,5,1,62.5,5.0,0.0,408,68.0,527,27,7.75,False,True
+1612,Yuzvendra Chahal,bowler,2023,Rajasthan Royals,3,14,14,,,,,,,317,52.83,432,21,8.18,False,True
+1612,Yuzvendra Chahal,bowler,2024,Rajasthan Royals,3,15,16,,,,,,,348,58.0,546,17,9.41,False,True
+1612,Yuzvendra Chahal,bowler,2025,Punjab Kings,4,15,18,,,,,,,270,45.0,430,16,9.56,False,True
+1612,Yuzvendra Chahal,bowler,2026,Punjab Kings,4,14,14,,,,,,,246,41.0,385,12,9.39,False,True

@@ -1,0 +1,884 @@
+match_id,comp_name,league,year,exclusion_strict,dls_flag,shortened,anomaly_legal,short_first,has_result
+13511,England in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+13512,England in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+13513,England in West Indies T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+13514,England in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+13515,England in West Indies T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+13522,West Indies in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+13523,West Indies in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+13524,West Indies in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+13612,Sri Lanka in Australia T20I Series 2022,T20I,2022,DLS/D-L,True,True,False,False,True
+13613,Sri Lanka in Australia T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+13614,Sri Lanka in Australia T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+13615,Sri Lanka in Australia T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+13616,Sri Lanka in Australia T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+14094,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14095,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14096,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14097,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14098,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14099,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14100,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14101,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14102,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14103,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14104,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14105,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14106,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14107,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14108,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14109,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14110,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14111,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14112,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14113,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14114,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14115,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14116,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14117,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14118,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14119,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14120,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14121,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14122,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14123,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14124,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14125,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14126,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14127,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14128,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14129,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14130,IPL 2022,IPL,2022,short first innings (unexplained),False,False,False,True,True
+14131,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14132,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14133,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14134,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14135,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14136,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14137,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14139,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14140,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14141,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14142,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14143,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14144,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14145,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14146,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14147,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14148,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14149,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14150,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14151,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14152,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14153,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14154,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14155,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14156,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14157,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14158,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14159,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+14160,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14161,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14162,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14163,IPL 2022,IPL,2022,retained,False,False,False,False,True
+14164,IPL 2022,IPL,2022,short first innings (unexplained),False,False,False,True,True
+15187,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+15188,IPL 2022,IPL,2022,legal-ball anomaly,False,False,True,False,True
+15189,IPL 2022,IPL,2022,retained,False,False,False,False,True
+15190,IPL 2022,IPL,2022,retained,False,False,False,False,True
+15458,Australia in Sri Lanka T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15459,Australia in Sri Lanka T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15460,Australia in Sri Lanka T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15406,South Africa in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15407,South Africa in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15408,South Africa in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15409,South Africa in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15410,South Africa in India T20I Series 2022,T20I,2022,shortened overs record,False,True,False,True,False
+15546,Bangladesh in West Indies T20I Series 2022,T20I,2022,shortened overs record,False,True,True,True,False
+15547,Bangladesh in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15548,Bangladesh in West Indies T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+15609,Afghanistan in Zimbabwe T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+15610,Afghanistan in Zimbabwe T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15611,Afghanistan in Zimbabwe T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+15795,India in Ireland T20I Series 2022,T20I,2022,short first innings (unexplained),False,False,False,True,True
+15796,India in Ireland T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16040,India in England T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16041,India in England T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16042,India in England T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16062,India in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16063,India in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16064,India in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16065,India in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16066,India in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16258,New Zealand in Ireland T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16259,New Zealand in Ireland T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16260,New Zealand in Ireland T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16315,South Africa in England T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16316,South Africa in England T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16317,South Africa in England T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16424,Bangladesh in Zimbabwe T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16425,Bangladesh in Zimbabwe T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16426,Bangladesh in Zimbabwe T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16646,South Africa vs Ireland T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16647,South Africa vs Ireland T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16653,Mens Twenty20 Asia Cup 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16654,Mens Twenty20 Asia Cup 2022,T20I,2022,retained,False,False,False,False,True
+16655,Mens Twenty20 Asia Cup 2022,T20I,2022,retained,False,False,False,False,True
+16656,Mens Twenty20 Asia Cup 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16657,Mens Twenty20 Asia Cup 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16658,Mens Twenty20 Asia Cup 2022,T20I,2022,retained,False,False,False,False,True
+16659,Mens Twenty20 Asia Cup 2022,T20I,2022,retained,False,False,False,False,True
+16660,Mens Twenty20 Asia Cup 2022,T20I,2022,retained,False,False,False,False,True
+16661,Mens Twenty20 Asia Cup 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16662,Mens Twenty20 Asia Cup 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16663,Mens Twenty20 Asia Cup 2022,T20I,2022,retained,False,False,False,False,True
+16664,Mens Twenty20 Asia Cup 2022,T20I,2022,retained,False,False,False,False,True
+16665,Mens Twenty20 Asia Cup 2022,T20I,2022,retained,False,False,False,False,True
+16666,New Zealand in Netherlands T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16667,New Zealand in Netherlands T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16683,New Zealand in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16684,New Zealand in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16685,New Zealand in West Indies T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16750,Afghanistan in Ireland T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16751,Afghanistan in Ireland T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+16752,Afghanistan in Ireland T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+16753,Afghanistan in Ireland T20I Series 2022,T20I,2022,shortened overs record,False,True,False,True,True
+16754,Afghanistan in Ireland T20I Series 2022,T20I,2022,DLS/D-L,True,True,False,True,True
+16862,Asia Cup T20 Qualifiers 2022,T20I,2022,retained,False,False,False,False,True
+16863,Asia Cup T20 Qualifiers 2022,T20I,2022,retained,False,False,False,False,True
+16864,Asia Cup T20 Qualifiers 2022,T20I,2022,retained,False,False,False,False,True
+16865,Asia Cup T20 Qualifiers 2022,T20I,2022,retained,False,False,False,False,True
+16866,Asia Cup T20 Qualifiers 2022,T20I,2022,retained,False,False,False,False,True
+16867,Asia Cup T20 Qualifiers 2022,T20I,2022,retained,False,False,False,False,True
+17394,Australia in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17395,Australia in India T20I Series 2022,T20I,2022,shortened overs record,False,True,False,True,True
+17396,Australia in India T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17553,England in Pakistan T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17554,England in Pakistan T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17555,England in Pakistan T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+17556,England in Pakistan T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17557,England in Pakistan T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17558,England in Pakistan T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17559,England in Pakistan T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17625,South Africa in India T20I Series 2022/23,T20I,2022,retained,False,False,False,False,True
+17626,South Africa in India T20I Series 2022/23,T20I,2022,legal-ball anomaly,False,False,True,False,True
+17627,South Africa in India T20I Series 2022/23,T20I,2022,legal-ball anomaly,False,False,True,False,True
+17631,Bangladesh in United Arab Emirates T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+17632,Bangladesh in United Arab Emirates T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17640,West Indies in Australia T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+17641,West Indies in Australia T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17737,New Zealand T20I Tri Series 2022/23,T20I,2022,retained,False,False,False,False,True
+17738,New Zealand T20I Tri Series 2022/23,T20I,2022,retained,False,False,False,False,True
+17739,New Zealand T20I Tri Series 2022/23,T20I,2022,retained,False,False,False,False,True
+17740,New Zealand T20I Tri Series 2022/23,T20I,2022,retained,False,False,False,False,True
+17741,New Zealand T20I Tri Series 2022/23,T20I,2022,retained,False,False,False,False,True
+17742,New Zealand T20I Tri Series 2022/23,T20I,2022,retained,False,False,False,False,True
+17743,New Zealand T20I Tri Series 2022/23,T20I,2022,retained,False,False,False,False,True
+17763,England in Australia T20I Series 2022,T20I,2022,legal-ball anomaly,False,False,True,False,True
+17764,England in Australia T20I Series 2022,T20I,2022,retained,False,False,False,False,True
+17765,England in Australia T20I Series 2022,T20I,2022,shortened overs record,False,True,False,True,False
+18531,India in New Zealand T20I Series 2022/23,T20I,2022,retained,False,False,False,False,True
+18532,India in New Zealand T20I Series 2022/23,T20I,2022,retained,False,False,False,False,False
+19556,Sri Lanka in India T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+19557,Sri Lanka in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+19558,Sri Lanka in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+19715,New Zealand in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+19716,New Zealand in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+19717,New Zealand in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+19690,Ireland in Zimbabwe T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+19691,Ireland in Zimbabwe T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+19692,Ireland in Zimbabwe T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+20181,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20182,IPL 2023,IPL,2023,DLS/D-L,True,False,True,False,True
+20183,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20184,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20185,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20186,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20187,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20188,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20189,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20190,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20191,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20192,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20193,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20194,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20195,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20196,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20197,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20198,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20199,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20200,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20201,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20202,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20203,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20204,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20205,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20206,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20207,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20208,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20209,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20210,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20211,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20212,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20213,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20214,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20215,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20216,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20217,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20218,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20219,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20220,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20221,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20222,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20223,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20224,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20225,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20226,IPL 2023,IPL,2023,short first innings (unexplained),False,False,False,True,False
+20227,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20228,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20229,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20230,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20231,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20232,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20233,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20234,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20235,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20236,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20237,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20238,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20239,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20240,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20241,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20242,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20243,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20244,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20245,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20246,IPL 2023,IPL,2023,retained,False,False,False,False,True
+20247,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20248,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20249,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+20250,IPL 2023,IPL,2023,retained,False,False,False,False,True
+21583,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+21584,IPL 2023,IPL,2023,retained,False,False,False,False,True
+21585,IPL 2023,IPL,2023,legal-ball anomaly,False,False,True,False,True
+21586,IPL 2023,IPL,2023,DLS/D-L,True,True,False,False,True
+19959,West Indies in South Africa T20I Series 2023,T20I,2023,shortened overs record,False,True,False,True,True
+19960,West Indies in South Africa T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+19961,West Indies in South Africa T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+21176,Sri Lanka in New Zealand T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+21177,Sri Lanka in New Zealand T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+21178,Sri Lanka in New Zealand T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+20133,England in Bangladesh T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+20134,England in Bangladesh T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+20135,England in Bangladesh T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+21070,Ireland in Bangladesh T20I Series 2023,T20I,2023,DLS/D-L,True,True,False,True,True
+21071,Ireland in Bangladesh T20I Series 2023,T20I,2023,shortened overs record,False,True,False,True,True
+21072,Ireland in Bangladesh T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+20878,Afghanistan v Pakistan T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+20879,Afghanistan v Pakistan T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+20880,Afghanistan v Pakistan T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+21403,New Zealand in Pakistan T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+21404,New Zealand in Pakistan T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+21405,New Zealand in Pakistan T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+21406,New Zealand in Pakistan T20I Series 2023,T20I,2023,short first innings (unexplained),False,False,False,True,False
+21407,New Zealand in Pakistan T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+23673,Afghanistan in Bangladesh T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+23674,Afghanistan in Bangladesh T20I Series 2023,T20I,2023,DLS/D-L,True,False,False,True,True
+24350,India in West Indies T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+24351,India in West Indies T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+24352,India in West Indies T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+24353,India in West Indies T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+24354,India in West Indies T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+24792,New Zealand in United Arab Emirates T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+24793,New Zealand in United Arab Emirates T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+24794,New Zealand in United Arab Emirates T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+24822,India in Ireland T20I Series 2023,T20I,2023,DLS/D-L,True,False,True,False,True
+24823,India in Ireland T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+25158,New Zealand in England T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+25159,New Zealand in England T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+25160,New Zealand in England T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+25161,New Zealand in England T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+25155,Australia in South Africa T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+25156,Australia in South Africa T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+25157,Australia in South Africa T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+27060,Australia in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+27061,Australia in India T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+27062,Australia in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+27063,Australia in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+27064,Australia in India T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+28046,India in South Africa T20I Series 2023,T20I,2023,DLS/D-L,True,True,False,True,True
+28047,India in South Africa T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+28063,England in West Indies T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+28064,England in West Indies T20I Series 2023,T20I,2023,legal-ball anomaly,False,False,True,False,True
+28065,England in West Indies T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+28066,England in West Indies T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+28067,England in West Indies T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+28332,Bangladesh in New Zealand T20I Series 2023,T20I,2023,retained,False,False,False,False,True
+28333,Bangladesh in New Zealand T20I Series 2023,T20I,2023,short first innings (unexplained),False,False,False,True,False
+28334,Bangladesh in New Zealand T20I Series 2023,T20I,2023,DLS/D-L,True,False,False,False,True
+28960,Afghanistan in India T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+28961,Afghanistan in India T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+28962,Afghanistan in India T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+28963,Pakistan in New Zealand T20I series 2024,T20I,2024,retained,False,False,False,False,True
+28964,Pakistan in New Zealand T20I series 2024,T20I,2024,retained,False,False,False,False,True
+28965,Pakistan in New Zealand T20I series 2024,T20I,2024,retained,False,False,False,False,True
+28966,Pakistan in New Zealand T20I series 2024,T20I,2024,retained,False,False,False,False,True
+28967,Pakistan in New Zealand T20I series 2024,T20I,2024,retained,False,False,False,False,True
+29815,West Indies in Australia T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+29816,West Indies in Australia T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+29817,West Indies in Australia T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+29982,Australia in New Zealand T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+29983,Australia in New Zealand T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+29984,Australia in New Zealand T20I Series 2024,T20I,2024,DLS/D-L,True,True,False,True,True
+28057,Ireland in Zimbabwe T20I Series 2023/24,T20I,2023,retained,False,False,False,False,True
+28058,Ireland in Zimbabwe T20I Series 2023/24,T20I,2023,legal-ball anomaly,False,False,True,False,True
+28059,Ireland in Zimbabwe T20I Series 2023/24,T20I,2023,retained,False,False,False,False,True
+30056,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30057,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30058,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30059,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30060,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+30061,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30062,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30063,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+30064,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30065,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30066,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30067,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30068,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30069,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30070,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30071,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+30072,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30073,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30074,IPL 2024,IPL,2024,retained,False,False,False,False,True
+30075,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+30076,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31240,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31241,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31242,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31243,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31244,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31245,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31246,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31247,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31248,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31249,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31250,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31251,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31252,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31253,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31254,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31255,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31256,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31257,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31258,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31259,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31260,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31261,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31262,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31263,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31264,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31265,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31266,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31267,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31268,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31269,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31270,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31271,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31272,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31273,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31274,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31275,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31276,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31277,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31278,IPL 2024,IPL,2024,short first innings (unexplained),False,False,False,True,True
+31279,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31280,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31281,IPL 2024,IPL,2024,no ball-by-ball,False,False,False,False,False
+31282,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31283,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31284,IPL 2024,IPL,2024,no ball-by-ball,False,False,False,False,False
+31285,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31286,IPL 2024,IPL,2024,legal-ball anomaly,False,False,True,False,True
+31287,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31288,IPL 2024,IPL,2024,no ball-by-ball,False,False,False,False,False
+31289,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31290,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31291,IPL 2024,IPL,2024,retained,False,False,False,False,True
+31292,IPL 2024,IPL,2024,retained,False,False,False,False,True
+28957,Zimbabwe in Sri Lanka T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+28958,Zimbabwe in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+28959,Zimbabwe in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+29924,Afghanistan in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+29925,Afghanistan in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+29926,Afghanistan in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+30728,Afghanistan v Ireland T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+30729,Afghanistan v Ireland T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+30730,Afghanistan v Ireland T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+30341,Sri Lanka in Bangladesh T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+30342,Sri Lanka in Bangladesh T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+30343,Sri Lanka in Bangladesh T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+31707,New Zealand in Pakistan T20I Series 2024,T20I,2024,shortened overs record,False,True,False,True,False
+31708,New Zealand in Pakistan T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+31709,New Zealand in Pakistan T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+31710,New Zealand in Pakistan T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+31711,New Zealand in Pakistan T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+32610,Pakistan in England T20I Series 2024,T20I,2024,no ball-by-ball,False,False,False,False,False
+32611,Pakistan in England T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+32612,Pakistan in England T20I Series 2024,T20I,2024,no ball-by-ball,False,False,False,False,False
+32613,Pakistan in England T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+32132,Zimbabwe in Bangladesh T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+32133,Zimbabwe in Bangladesh T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+32134,Zimbabwe in Bangladesh T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+32135,Zimbabwe in Bangladesh T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+32136,Zimbabwe in Bangladesh T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+33803,India in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+33804,India in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+33805,India in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+33806,India in Zimbabwe T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+33807,India in Zimbabwe T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+37354,Pakistan in Australia T20I Series 2024,T20I,2024,shortened overs record,False,True,False,True,True
+37355,Pakistan in Australia T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37356,Pakistan in Australia T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+32290,Pakistan in Ireland T20I series 2024,T20I,2024,retained,False,False,False,False,True
+32291,Pakistan in Ireland T20I series 2024,T20I,2024,retained,False,False,False,False,True
+32292,Pakistan in Ireland T20I series 2024,T20I,2024,retained,False,False,False,False,True
+32620,Netherlands Tri-Nation T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+32621,Netherlands Tri-Nation T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+32622,Netherlands Tri-Nation T20I Series 2024,T20I,2024,no ball-by-ball,False,False,False,False,False
+32623,Netherlands Tri-Nation T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+32624,Netherlands Tri-Nation T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+32625,Netherlands Tri-Nation T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+38795,Pakistan in South Africa T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+38796,Pakistan in South Africa T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+38797,Pakistan in South Africa T20I Series 2024,T20I,2024,no ball-by-ball,False,False,False,False,False
+32617,South Africa in West Indies T20I Series [May 2024] 2024,T20I,2024,retained,False,False,False,False,True
+32618,South Africa in West Indies T20I Series [May 2024] 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+32619,South Africa in West Indies T20I Series [May 2024] 2024,T20I,2024,retained,False,False,False,False,True
+36096,South Africa in West Indies T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+36097,South Africa in West Indies T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+36098,South Africa in West Indies T20I Series 2024,T20I,2024,DLS/D-L,True,True,False,True,True
+37349,England in West Indies T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37350,England in West Indies T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37351,England in West Indies T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37352,England in West Indies T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37353,England in West Indies T20I Series 2024,T20I,2024,short first innings (unexplained),False,False,False,True,False
+38842,Bangladesh in West Indies T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+38843,Bangladesh in West Indies T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+38844,Bangladesh in West Indies T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37276,Bangladesh in India T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37277,Bangladesh in India T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+37278,Bangladesh in India T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+40036,England in India T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+40037,England in India T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+40038,England in India T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+40039,England in India T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+40040,England in India T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+34427,India in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+34428,India in Sri Lanka T20I Series 2024,T20I,2024,DLS/D-L,True,True,False,False,True
+34429,India in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+36562,Australia in England T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+36563,Australia in England T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+36564,Australia in England T20I Series 2024,T20I,2024,no ball-by-ball,False,False,False,False,False
+36559,Australia in Scotland T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+36560,Australia in Scotland T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+36561,Australia in Scotland T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37014,Ireland v South Africa T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+37015,Ireland v South Africa T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+35423,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,2024,retained,False,False,False,False,True
+35424,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,2024,retained,False,False,False,False,False
+35425,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,2024,retained,False,False,False,False,True
+35427,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,2024,retained,False,False,False,False,True
+35428,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,2024,retained,False,False,False,False,True
+35429,Netherlands Tri-Nation T20I Series [Aug 2024] 2024,T20I,2024,retained,False,False,False,False,True
+36199,West Indies in England T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+36200,West Indies in England T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+36201,West Indies in England T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+36208,South Africa in England T20I Series 2025,T20I,2025,DLS/D-L,True,True,False,True,True
+36209,South Africa in England T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+36210,South Africa in England T20I Series 2025,T20I,2025,no ball-by-ball,False,False,False,False,False
+37085,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37086,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37087,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37088,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,legal-ball anomaly,False,False,True,False,True
+37089,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37090,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,legal-ball anomaly,False,False,True,False,True
+37091,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37092,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37093,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,legal-ball anomaly,False,False,True,False,True
+37094,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37095,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37096,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37097,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37098,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37099,Mens T20 Emerging Teams Asia Cup 2024,Other-T20,2024,retained,False,False,False,False,True
+37553,West Indies in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37554,West Indies in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37555,West Indies in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37894,New Zealand in Sri Lanka T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37895,New Zealand in Sri Lanka T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+37940,India in South Africa T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+37941,India in South Africa T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37942,India in South Africa T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37943,India in South Africa T20I Series 2024,T20I,2024,legal-ball anomaly,False,False,True,False,True
+37926,Pakistan in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37927,Pakistan in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+37928,Pakistan in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+40694,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40695,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40696,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40697,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40698,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40699,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40700,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40701,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40702,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40703,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40704,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40705,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40706,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40707,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40708,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40709,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40710,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40711,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40712,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40713,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40714,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40715,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40716,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40717,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40718,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40719,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40720,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40721,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40722,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40723,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40724,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40725,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40726,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40727,IPL 2025,IPL,2025,shortened overs record,False,True,False,True,True
+40728,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40729,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40730,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40731,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40732,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40733,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40734,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40735,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40736,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40737,IPL 2025,IPL,2025,retained,False,False,False,False,False
+40738,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40739,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40740,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40741,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40742,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40743,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40744,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40745,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40746,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40747,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40748,IPL 2025,IPL,2025,retained,False,False,False,False,False
+40749,IPL 2025,IPL,2025,DLS/D-L,True,True,False,False,True
+40750,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40751,IPL 2025,IPL,2025,short first innings (unexplained),False,False,False,True,False
+40752,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40753,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40754,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40755,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40756,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40757,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40758,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40759,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40760,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40761,IPL 2025,IPL,2025,no ball-by-ball,False,False,False,False,False
+40762,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40763,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40764,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40765,IPL 2025,IPL,2025,retained,False,False,False,False,True
+40766,IPL 2025,IPL,2025,legal-ball anomaly,False,False,True,False,True
+40767,IPL 2025,IPL,2025,retained,False,False,False,False,True
+43057,IPL 2025,IPL,2025,retained,False,False,False,False,True
+38626,Afghanistan in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+38627,Afghanistan in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+38628,Afghanistan in Zimbabwe T20I Series 2024,T20I,2024,retained,False,False,False,False,True
+38632,Sri Lanka in New Zealand T20I Series 2024/25,T20I,2024,legal-ball anomaly,False,False,True,False,True
+38633,Sri Lanka in New Zealand T20I Series 2024/25,T20I,2024,retained,False,False,False,False,True
+38634,Sri Lanka in New Zealand T20I Series 2024/25,T20I,2025,retained,False,False,False,False,True
+39808,Pakistan in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+39809,Pakistan in New Zealand T20I Series 2025,T20I,2025,shortened overs record,False,True,True,True,True
+39810,Pakistan in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+39811,Pakistan in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+39812,Pakistan in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+39983,Ireland in Zimbabwe T20I Series 2025,T20I,2025,shortened overs record,False,True,False,True,False
+39984,Ireland in Zimbabwe T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+39985,Ireland in Zimbabwe T20I Series 2025,T20I,2025,shortened overs record,False,True,True,True,False
+41502,West Indies in Ireland T20I Series 2025,T20I,2025,no ball-by-ball,False,False,False,False,False
+41503,West Indies in Ireland T20I Series 2025,T20I,2025,no ball-by-ball,False,False,False,False,False
+41504,West Indies in Ireland T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41505,Australia in West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41506,Australia in West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41507,Australia in West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41508,Australia in West Indies T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+41509,Australia in West Indies T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+41510,Pakistan in West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41511,Pakistan in West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41512,Pakistan in West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41849,West Indies in South Africa T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+41850,West Indies in South Africa T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+41851,West Indies in South Africa T20I Series 2026,T20I,2026,DLS/D-L,True,True,False,True,True
+41969,South Africa in Australia T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+41970,South Africa in Australia T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+41971,South Africa in Australia T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+41975,India in Australia T20I Series 2025,T20I,2025,shortened overs record,False,True,False,True,False
+41976,India in Australia T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41977,India in Australia T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41978,India in Australia T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+41979,India in Australia T20I Series 2025,T20I,2025,short first innings (unexplained),False,False,False,True,False
+42027,South Africa in India T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+42028,South Africa in India T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+42029,South Africa in India T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+42030,South Africa in India T20I Series 2025,T20I,2025,no ball-by-ball,False,False,False,False,False
+42031,South Africa in India T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+42742,Bangladesh in Pakistan T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+42743,Bangladesh in Pakistan T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+42744,Bangladesh in Pakistan T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+42783,Bangladesh in United Arab Emirates T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+42784,Bangladesh in United Arab Emirates T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+43171,Bangladesh in United Arab Emirates T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+43592,Bangladesh in Sri Lanka T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+43594,Bangladesh in Sri Lanka T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+43595,Bangladesh in Sri Lanka T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+44265,Pakistan in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+44266,Pakistan in Bangladesh T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+44267,Pakistan in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+45390,India in England T20I Series 2026,T20I,2026,retained,False,False,False,False,False
+45391,India in England T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+45392,India in England T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+45393,India in England T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+45394,India in England T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+45489,Sri Lanka in England T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+45490,Sri Lanka in England T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+45491,Sri Lanka in England T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+45495,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45496,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45497,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45498,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45499,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45500,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45501,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45502,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45503,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45504,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45505,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45506,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45507,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45508,Asia Cup 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+45509,Asia Cup 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+45510,Asia Cup 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+45511,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45512,Asia Cup 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+45513,Asia Cup 2025,T20I,2025,retained,False,False,False,False,True
+45851,United Arab Emirates T20I Tri-Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+45852,United Arab Emirates T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+45853,United Arab Emirates T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+45854,United Arab Emirates T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+45855,United Arab Emirates T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+45856,United Arab Emirates T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+45857,United Arab Emirates T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+45903,Sri Lanka in Zimbabwe T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+45904,Sri Lanka in Zimbabwe T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+45905,Sri Lanka in Zimbabwe T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+45906,Netherlands in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+45907,Netherlands in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+45908,Netherlands in Bangladesh T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,True,False
+46007,England in Ireland T20I series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+46008,England in Ireland T20I series 2025,T20I,2025,no ball-by-ball,False,False,False,False,False
+46009,England in Ireland T20I series 2025,T20I,2025,retained,False,False,False,False,True
+46249,Nepal v West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46250,Nepal v West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46251,Nepal v West Indies T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46310,Australia in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46311,Australia in New Zealand T20I Series 2025,T20I,2025,shortened overs record,False,True,False,True,False
+46312,Australia in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46740,South Africa in Pakistan T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46741,South Africa in Pakistan T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46742,South Africa in Pakistan T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46747,England in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,False
+46748,England in New Zealand T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+46749,England in New Zealand T20I Series 2025,T20I,2025,shortened overs record,False,True,False,True,False
+46753,Afghanistan v Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46754,Afghanistan v Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46755,Afghanistan v Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46940,West Indies in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46941,West Indies in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+46942,West Indies in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47241,Ireland in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47242,Ireland in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47243,Ireland in Bangladesh T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47260,Afghanistan in Zimbabwe T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+47261,Afghanistan in Zimbabwe T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47262,Afghanistan in Zimbabwe T20I Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+47965,West Indies in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47966,West Indies in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47967,West Indies in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47968,West Indies in New Zealand T20I Series 2025,T20I,2025,short first innings (unexplained),False,False,False,True,False
+47969,West Indies in New Zealand T20I Series 2025,T20I,2025,retained,False,False,False,False,True
+47976,Pakistan T20I Tri-Series 2025,T20I,2025,legal-ball anomaly,False,False,True,False,True
+47977,Pakistan T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+47978,Pakistan T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+47979,Pakistan T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+47980,Pakistan T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+47981,Pakistan T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+47982,Pakistan T20I Tri-Series 2025,T20I,2025,retained,False,False,False,False,True
+48015,Asia Cup Rising Stars 2025,Other-T20,2025,legal-ball anomaly,False,False,True,False,True
+48016,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48017,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48018,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48019,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48020,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48021,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48022,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48023,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48024,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48025,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48026,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48027,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48028,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+48029,Asia Cup Rising Stars 2025,Other-T20,2025,retained,False,False,False,False,True
+50125,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50126,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50127,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50128,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50129,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50130,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50131,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50132,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50133,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50134,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50135,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50136,IPL 2026,IPL,2026,short first innings (unexplained),False,False,False,True,False
+50137,IPL 2026,IPL,2026,shortened overs record,False,True,False,True,True
+50138,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50139,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50140,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50141,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50142,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50143,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50144,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50342,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50343,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50344,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50345,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50346,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50347,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50348,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50349,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50350,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50351,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50352,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50353,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50354,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50355,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50356,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50357,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50358,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50359,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50360,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50361,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50362,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50363,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50364,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50365,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50366,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50367,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50368,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50369,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50370,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50371,IPL 2026,IPL,2026,DLS/D-L,True,True,False,True,True
+50372,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50373,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50374,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50375,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50376,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50377,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50378,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50379,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50380,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50381,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50382,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50383,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50384,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50385,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50386,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50387,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50388,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50389,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50390,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50391,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50942,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50943,IPL 2026,IPL,2026,legal-ball anomaly,False,False,True,False,True
+50944,IPL 2026,IPL,2026,retained,False,False,False,False,True
+50945,IPL 2026,IPL,2026,retained,False,False,False,False,True
+48466,Ireland in United Arab Emirates T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48467,Ireland in United Arab Emirates T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+48512,Pakistan in Sri Lanka T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48513,Pakistan in Sri Lanka T20I Series 2026,T20I,2026,no ball-by-ball,False,False,False,False,False
+48514,Pakistan in Sri Lanka T20I Series 2026,T20I,2026,short first innings (unexplained),False,False,False,True,True
+48591,New Zealand in India T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48592,New Zealand in India T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+48593,New Zealand in India T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48594,New Zealand in India T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48595,New Zealand in India T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+48596,Afghanistan v West Indies T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48597,Afghanistan v West Indies T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48598,Afghanistan v West Indies T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48610,England in Sri Lanka T20I Series 2026,T20I,2026,DLS/D-L,True,True,False,False,True
+48611,England in Sri Lanka T20I Series 2026,T20I,2026,DLS/D-L,True,True,True,False,True
+48612,England in Sri Lanka T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48915,Australia in Pakistan T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48916,Australia in Pakistan T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+48917,Australia in Pakistan T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+49736,South Africa in New Zealand T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+49737,South Africa in New Zealand T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+49738,South Africa in New Zealand T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+49739,South Africa in New Zealand T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+49740,South Africa in New Zealand T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+50188,New Zealand in Bangladesh T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+50189,New Zealand in Bangladesh T20I Series 2026,T20I,2026,no ball-by-ball,False,False,False,False,False
+50190,New Zealand in Bangladesh T20I Series 2026,T20I,2026,DLS/D-L,True,True,False,False,True
+50340,India in Ireland T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+50341,India in Ireland T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+50404,West Indies in India T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50405,West Indies in India T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+50406,West Indies in India T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50407,West Indies in India T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+50408,West Indies in India T20I Series 2026,T20I,2026,shortened overs record,False,True,False,True,False
+50503,Sri Lanka in West Indies T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50504,Sri Lanka in West Indies T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+50505,Sri Lanka in West Indies T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50507,India in Zimbabwe T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50508,India in Zimbabwe T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50509,India in Zimbabwe T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50597,Australia in Bangladesh T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50598,Australia in Bangladesh T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+50599,Australia in Bangladesh T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+51383,Bangladesh in Zimbabwe T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+51384,Bangladesh in Zimbabwe T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+51385,Bangladesh in Zimbabwe T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+54210,India in New Zealand T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+54211,India in New Zealand T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+54212,India in New Zealand T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+54213,India in New Zealand T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+54214,India in New Zealand T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+54408,Afghanistan vs India in India T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+54409,Afghanistan vs India in India T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+54410,Afghanistan vs India in India T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+54711,India in Japan T20I Match 2026,T20I,2026,shortened overs record,False,True,False,True,True
+55078,Sri Lanka in Pakistan T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True
+55079,Sri Lanka in Pakistan T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+55080,Sri Lanka in Pakistan T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+55559,Afghanistan v Zimbabwe T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+55560,Afghanistan v Zimbabwe T20I Series 2026,T20I,2026,retained,False,False,False,False,True
+55561,Afghanistan v Zimbabwe T20I Series 2026,T20I,2026,legal-ball anomaly,False,False,True,False,True

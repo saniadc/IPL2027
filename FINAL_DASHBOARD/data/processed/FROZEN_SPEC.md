@@ -1,0 +1,13 @@
+# Frozen Phase 0 Data Specification (baseline for Phase 1 onward)
+- Unit of exposure: legal deliveries. A batter opportunity is a legal delivery faced in the regular innings; a bowler opportunity is a legal delivery bowled. Pressure opportunity = strict pressure delivery (same set for both roles).
+- Regular innings only (innings 1 and 2). Super Overs (innings 3/4) excluded from all primary analysis.
+- League: IPL, T20I, Other-T20 (from competition name and format). Season = calendar year of match_date.
+- Legal delivery: not a wide and not an Overstep (no-ball). Legal ball number = running count of legal deliveries in the innings.
+- Batter dismissal: dismissed_player_id equals the striker and the dismissal is not Retire Out.
+- Bowler-credited wicket: dismissal in {Caught, Bowled, LBW, Stump, Hit Wicket} on a legal delivery. Run-outs, retirements, obstruction excluded; wickets on wides/no-balls not credited (45 deliveries).
+- Bowler-conceded runs: off-bat runs + wide runs + no-ball penalty. Byes, leg-byes, other extras and penalty runs are not bowler-conceded.
+- Pressure (primary, frozen): second innings, legal delivery, balls remaining 1-30, runs needed > 0, RRR >= 9, wickets in hand >= 1, target from first innings (total+1), match passes the strict exclusion rule.
+- Strict exclusions (primary): DLS/D-L matches, shortened-overs matches, legal-ball anomaly matches, unexplained short first innings, matches without ball-by-ball. A3 (anomaly kept with state filter) is retained as a sensitivity specification.
+- Balls remaining are unclipped; negative values are flagged, not repaired.
+- Legal-ball anomaly (207 matches; 201 assigned to that category under the rule order): unresolved. No cause is assumed. Possible unrecorded no-balls are a hypothesis only.
+- Reconciliation: strict pressure set = 8,467 deliveries; batter and bowler rows sum to 8,467 in total and by league (IPL 3,778; T20I 4,352; Other-T20 337).

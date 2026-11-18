@@ -1,0 +1,62 @@
+pid,player_name,evaluated_as,seasons_in_squad,seasons_with_match,franchises_represented,number_of_franchises,first_season,latest_season,latest_historical_franchise,franchise_changes,in_research_top10_batters,in_research_top10_bowlers
+3275,Alzarri Joseph,bowler,3,3,Gujarat Titans / Royal Challengers Bengaluru,2,2022.0,2024.0,Royal Challengers Bengaluru,1,False,False
+1318,Andre Russell,batter and bowler,4,4,Kolkata Knight Riders,1,2022.0,2025.0,Kolkata Knight Riders,0,False,False
+7270,Anrich Nortje,bowler,5,5,Delhi Capitals / Kolkata Knight Riders / Lucknow Super Giants,3,2022.0,2026.0,Lucknow Super Giants,2,False,False
+6464,Arshdeep Singh,bowler,5,5,Punjab Kings,1,2022.0,2026.0,Punjab Kings,0,False,True
+8101,Ashutosh Sharma,batter,3,3,Punjab Kings / Delhi Capitals,2,2024.0,2026.0,Delhi Capitals,1,True,False
+3653,Avesh Khan,bowler,5,5,Lucknow Super Giants / Rajasthan Royals,2,2022.0,2026.0,Lucknow Super Giants,2,False,False
+2876,Axar Patel,batter,5,5,Delhi Capitals,1,2022.0,2026.0,Delhi Capitals,0,False,False
+6676,Azmatullah Omarzai,bowler,3,3,Gujarat Titans / Punjab Kings,2,2024.0,2026.0,Punjab Kings,1,False,False
+360,Bhuvneshwar Kumar,bowler,5,5,Sunrisers Hyderabad / Royal Challengers Bengaluru,2,2022.0,2026.0,Royal Challengers Bengaluru,1,False,False
+786,Chris Jordan,bowler,2,2,Chennai Super Kings / Mumbai Indians,2,2022.0,2023.0,Mumbai Indians,1,False,False
+1077,David Miller,batter,5,5,Gujarat Titans / Lucknow Super Giants / Delhi Capitals,3,2022.0,2026.0,Delhi Capitals,2,False,False
+7260,Dhruv Jurel,batter,5,4,Rajasthan Royals,1,2022.0,2026.0,Rajasthan Royals,0,False,False
+2399,Dushmantha Chameera,bowler,4,4,Lucknow Super Giants / Kolkata Knight Riders / Delhi Capitals,3,2022.0,2026.0,Delhi Capitals,2,False,False
+39657,Eshan Malinga,bowler,2,2,Sunrisers Hyderabad,1,2025.0,2026.0,Sunrisers Hyderabad,0,False,False
+7240,FazalHaq Farooqi,bowler,4,3,Sunrisers Hyderabad / Rajasthan Royals,2,2022.0,2025.0,Rajasthan Royals,1,False,False
+3330,Hardik Pandya,batter,5,5,Gujarat Titans / Mumbai Indians,2,2022.0,2026.0,Mumbai Indians,1,False,False
+7364,Haris Rauf,bowler,0,0,,0,,,,0,False,False
+2261,Harshal Patel,bowler,5,5,Royal Challengers Bengaluru / Punjab Kings / Sunrisers Hyderabad,3,2022.0,2026.0,Sunrisers Hyderabad,2,False,False
+22920,Jacob Duffy,bowler,1,1,Royal Challengers Bengaluru,1,2026.0,2026.0,Royal Challengers Bengaluru,0,False,False
+2633,Jason Holder,batter and bowler,3,3,Lucknow Super Giants / Rajasthan Royals / Gujarat Titans,3,2022.0,2026.0,Gujarat Titans,2,True,False
+2933,Jasprit Bumrah,bowler,5,4,Mumbai Indians,1,2022.0,2026.0,Mumbai Indians,0,False,True
+830,Josh Hazlewood,bowler,4,4,Royal Challengers Bengaluru,1,2022.0,2026.0,Royal Challengers Bengaluru,0,False,True
+4816,Khaleel Ahmed,bowler,5,5,Delhi Capitals / Chennai Super Kings,2,2022.0,2026.0,Chennai Super Kings,1,False,False
+4692,Lockie Ferguson,bowler,5,5,Gujarat Titans / Kolkata Knight Riders / Royal Challengers Bengaluru / Punjab Kings,4,2022.0,2026.0,Punjab Kings,3,False,False
+19316,Maheesh Theekshana,batter and bowler,4,4,Chennai Super Kings / Rajasthan Royals,2,2022.0,2025.0,Rajasthan Royals,1,False,False
+8,Mahendra Singh Dhoni,batter,5,4,Chennai Super Kings,1,2022.0,2026.0,Chennai Super Kings,0,True,False
+8661,Matheesha Pathirana,bowler,5,5,Chennai Super Kings / Kolkata Knight Riders,2,2022.0,2026.0,Kolkata Knight Riders,1,False,True
+796,Matthew Wade,batter,3,2,Gujarat Titans,1,2022.0,2024.0,Gujarat Titans,0,True,False
+4101,Mitchell Santner,batter and bowler,5,5,Chennai Super Kings / Mumbai Indians,2,2022.0,2026.0,Mumbai Indians,1,False,False
+5944,Mohammed Siraj,bowler,5,5,Royal Challengers Bengaluru / Gujarat Titans,2,2022.0,2026.0,Gujarat Titans,1,False,False
+2878,Mohit Sharma,bowler,3,3,Gujarat Titans / Delhi Capitals,2,2023.0,2025.0,Delhi Capitals,1,False,False
+5041,Mukesh Kumar,bowler,4,4,Delhi Capitals,1,2023.0,2026.0,Delhi Capitals,0,False,False
+4373,Mustafizur Rahman,bowler,5,4,Delhi Capitals / Chennai Super Kings / Kolkata Knight Riders,3,2022.0,2026.0,Kolkata Knight Riders,3,False,False
+7897,Namboori Tilak Varma,batter,5,5,Mumbai Indians,1,2022.0,2026.0,Mumbai Indians,0,True,False
+5809,Naveen ul Haq,bowler,2,2,Lucknow Super Giants,1,2023.0,2024.0,Lucknow Super Giants,0,False,False
+3125,Nicholas Pooran,batter,5,5,Sunrisers Hyderabad / Lucknow Super Giants,2,2022.0,2026.0,Lucknow Super Giants,1,False,False
+7967,Noor Ahmad,bowler,5,4,Gujarat Titans / Chennai Super Kings,2,2022.0,2026.0,Chennai Super Kings,1,False,False
+1758,Patrick Cummins,bowler,4,4,Kolkata Knight Riders / Sunrisers Hyderabad,2,2022.0,2026.0,Sunrisers Hyderabad,1,False,False
+4489,Prasidh Krishna,bowler,5,3,Rajasthan Royals / Gujarat Titans,2,2022.0,2026.0,Gujarat Titans,1,False,False
+3926,Rahul Tewatia,batter,5,5,Gujarat Titans,1,2022.0,2026.0,Gujarat Titans,0,False,False
+4722,Rashid Khan,batter and bowler,5,5,Gujarat Titans,1,2022.0,2026.0,Gujarat Titans,0,True,True
+7503,Ravi Bishnoi,bowler,5,5,Lucknow Super Giants / Rajasthan Royals,2,2022.0,2026.0,Rajasthan Royals,1,False,False
+152,Ravindra Jadeja,batter,5,5,Chennai Super Kings / Rajasthan Royals,2,2022.0,2026.0,Rajasthan Royals,1,False,False
+4708,Rinku Singh,batter,5,5,Kolkata Knight Riders,1,2022.0,2026.0,Kolkata Knight Riders,0,True,False
+6726,Romario Shepherd,batter,5,5,Sunrisers Hyderabad / Lucknow Super Giants / Mumbai Indians / Royal Challengers Bengaluru,4,2022.0,2026.0,Royal Challengers Bengaluru,3,False,False
+4986,Rovman Powell,batter,5,5,Delhi Capitals / Rajasthan Royals / Kolkata Knight Riders,3,2022.0,2026.0,Kolkata Knight Riders,2,True,False
+2411,Sandeep Sharma,bowler,5,5,Punjab Kings / Rajasthan Royals,2,2022.0,2026.0,Rajasthan Royals,1,False,False
+6355,Shaheen Afridi,bowler,0,0,,0,,,,0,False,True
+2847,Shardul Thakur,bowler,5,5,Delhi Capitals / Kolkata Knight Riders / Chennai Super Kings / Lucknow Super Giants / Mumbai Indians,5,2022.0,2026.0,Mumbai Indians,4,False,True
+2756,Shashank Singh,batter,4,4,Sunrisers Hyderabad / Punjab Kings,2,2022.0,2026.0,Punjab Kings,1,False,False
+6725,Sherfane Rutherford,batter,4,3,Royal Challengers Bengaluru / Kolkata Knight Riders / Gujarat Titans / Mumbai Indians,4,2022.0,2026.0,Mumbai Indians,3,False,False
+3297,Shimron Hetmyer,batter,5,5,Rajasthan Royals,1,2022.0,2026.0,Rajasthan Royals,0,False,False
+4265,T Natarajan,bowler,5,5,Sunrisers Hyderabad / Delhi Capitals,2,2022.0,2026.0,Delhi Capitals,1,False,False
+6396,Tim David,batter,5,5,Mumbai Indians / Royal Challengers Bengaluru,2,2022.0,2026.0,Royal Challengers Bengaluru,1,True,False
+278,Tim Southee,bowler,2,2,Kolkata Knight Riders,1,2022.0,2023.0,Kolkata Knight Riders,0,False,True
+2320,Trent Boult,bowler,5,5,Rajasthan Royals / Mumbai Indians,2,2022.0,2026.0,Mumbai Indians,1,False,False
+20702,Tristan Stubbs,batter,5,5,Mumbai Indians / Delhi Capitals,2,2022.0,2026.0,Delhi Capitals,1,True,False
+6806,Tushar Deshpande,bowler,5,5,Chennai Super Kings / Rajasthan Royals,2,2022.0,2026.0,Rajasthan Royals,1,False,False
+4900,Wanindu Hasaranga,bowler,5,3,Royal Challengers Bengaluru / Sunrisers Hyderabad / Rajasthan Royals / Lucknow Super Giants,4,2022.0,2026.0,Lucknow Super Giants,3,False,True
+4823,Washington Sundar,batter,5,5,Sunrisers Hyderabad / Gujarat Titans,2,2022.0,2026.0,Gujarat Titans,1,False,False
+1612,Yuzvendra Chahal,bowler,5,5,Rajasthan Royals / Punjab Kings,2,2022.0,2026.0,Punjab Kings,1,False,True
